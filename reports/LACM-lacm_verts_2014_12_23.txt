@@ -1,0 +1,812 @@
+Report for Institution Code LACM, Resource lacm_verts
+Usage stats for November, 2014, generated on 2014/12/23
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 822
+Number of records retrieved in searches: 17567
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 7
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Costa Rica ; Times: 2
+	Country: Denmark ; Times: 3
+	Country: France ; Times: 9
+	Country: Germany ; Times: 50
+	Country: India ; Times: 3
+	Country: Italy ; Times: 4
+	Country: Mexico ; Times: 85
+	Country: Netherlands ; Times: 2
+	Country: Norway ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Philippines ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 4
+	Country: Sweden ; Times: 5
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 599
+	Country: Unknown ; Times: 11
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 15
+	Date: 2014-11-02 ; Times: 6
+	Date: 2014-11-03 ; Times: 40
+	Date: 2014-11-04 ; Times: 76
+	Date: 2014-11-05 ; Times: 41
+	Date: 2014-11-06 ; Times: 28
+	Date: 2014-11-07 ; Times: 31
+	Date: 2014-11-08 ; Times: 24
+	Date: 2014-11-09 ; Times: 46
+	Date: 2014-11-10 ; Times: 43
+	Date: 2014-11-11 ; Times: 11
+	Date: 2014-11-12 ; Times: 28
+	Date: 2014-11-13 ; Times: 18
+	Date: 2014-11-14 ; Times: 6
+	Date: 2014-11-15 ; Times: 3
+	Date: 2014-11-16 ; Times: 2
+	Date: 2014-11-17 ; Times: 19
+	Date: 2014-11-18 ; Times: 21
+	Date: 2014-11-19 ; Times: 18
+	Date: 2014-11-20 ; Times: 32
+	Date: 2014-11-21 ; Times: 27
+	Date: 2014-11-22 ; Times: 24
+	Date: 2014-11-23 ; Times: 24
+	Date: 2014-11-24 ; Times: 67
+	Date: 2014-11-25 ; Times: 46
+	Date: 2014-11-26 ; Times: 32
+	Date: 2014-11-27 ; Times: 18
+	Date: 2014-11-28 ; Times: 15
+	Date: 2014-11-29 ; Times: 30
+	Date: 2014-11-30 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "034248 lacm" ; Times: 1
+	Query: "lacm lampadena urophaos 4268" ; Times: 1
+	Query: "graptemys versa" ; Times: 5
+	Query: "lacm porichthys margaritatus" ; Times: 1
+	Query: "cebus capucinus lacm" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "canis lupus british columbia lacm" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "lacm nicholsina denticulata 15" ; Times: 1
+	Query: "lacm notoscopelus resplendens 4268" ; Times: 1
+	Query: "lacm malacoctenus tetranemus" ; Times: 1
+	Query: "lacm porichthys margaritatus 0" ; Times: 1
+	Query: "Taxidea taxus distance(location,geopoint(46.67959446564022,-91.669921875))<567178" ; Times: 1
+	Query: "Proechimys" ; Times: 1
+	Query: "Anolis sagrei (Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "perca fluviatilis" ; Times: 2
+	Query: "Cricetomys" ; Times: 1
+	Query: "specificepithet:bendirii genus:sorex year >= 1950 year <= 2014" ; Times: 1
+	Query: "type:specimen specificepithet:fumeus genus:Sorex year <= 2014" ; Times: 2
+	Query: "Natrix natrix" ; Times: 1
+	Query: "poeciliopsis retropinna" ; Times: 3
+	Query: "Chionactis" ; Times: 1
+	Query: "lacm protomyctophum crockeri 4268" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus mappable:1" ; Times: 1
+	Query: "crotalus molossus distance(location,geopoint(31.686107579079483,-109.06402587890625))<100000" ; Times: 1
+	Query: "stateprovince:"San Luis Potosi" genus:Pseudoeurycea" ; Times: 1
+	Query: "genus:Rhinoceros" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 3
+	Query: "class:Mammalia Idaho" ; Times: 2
+	Query: "Anolis sagrei (United States) AND (NOT Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 3
+	Query: "054274 lacm" ; Times: 1
+	Query: "class:Mammalia mesoplodon" ; Times: 7
+	Query: "euroscaptor" ; Times: 1
+	Query: "Ophisaurus" ; Times: 2
+	Query: "catalognumber:28702 (reissi)" ; Times: 1
+	Query: ""sceloporus undulatus" type:specimen mappable:1" ; Times: 1
+	Query: "todidae type:specimen" ; Times: 1
+	Query: "lacm malacoctenus hubbsi" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "lacm triphoturus mexicanus 4268" ; Times: 1
+	Query: "spermophilus tereticaudus" ; Times: 11
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Reptilia" ; Times: 1
+	Query: "lacm melamphaes eulepis" ; Times: 1
+	Query: "Atropoides" ; Times: 2
+	Query: "31248 lacm" ; Times: 1
+	Query: "ummz" ; Times: 1
+	Query: "altae institutioncode:LACM (Eleutherodactylus OR Pristimantis)" ; Times: 2
+	Query: "lacm lampanyctus parvicauda 2287" ; Times: 1
+	Query: "lacm microspathodon dorsalis" ; Times: 1
+	Query: "stateprovince:"texas" genus:desmognathus" ; Times: 1
+	Query: "crotalus atrox atrox stateprovince:"New Mexico" AND (NOT viridis NOT scutulatus NOT lepidus NOT molossus)" ; Times: 1
+	Query: "059429 lacm" ; Times: 1
+	Query: "lacm lampanyctus idostigma" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 3
+	Query: "gymnophthalmus speciosus" ; Times: 2
+	Query: "Molossus pretiosus" ; Times: 1
+	Query: "lacm lampanyctus nobilis 3080" ; Times: 1
+	Query: "lacm oligocottus rimensis 10.7" ; Times: 1
+	Query: "sylvilagus year >= 2013" ; Times: 1
+	Query: "larimus acclivis 251" ; Times: 1
+	Query: "lacm melamphaes spinifer" ; Times: 1
+	Query: "sylvilagus year >= 2010" ; Times: 2
+	Query: "anolis sagrei (United States) AND (NOT Cuba NOT Belize NOT Mexico NOT Jamaica) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "lacm myctophum aurolaternatum" ; Times: 1
+	Query: "cricetomys" ; Times: 3
+	Query: ""Pinguinus impennis"" ; Times: 1
+	Query: "lacm scopelarchus guntheri 1350" ; Times: 1
+	Query: "Artamus cinereus inkermani" ; Times: 1
+	Query: "Pseudobranchus axanthus" ; Times: 3
+	Query: "092232 lacm" ; Times: 2
+	Query: "canis latrans zacatecas lacm" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "BLB" ; Times: 1
+	Query: "Agelaius phoeniceus grinnelli" ; Times: 1
+	Query: "lacm scopelengys tristis 6250" ; Times: 1
+	Query: "052395 lacm" ; Times: 1
+	Query: "aneides lugubris" ; Times: 2
+	Query: "lacm parvilux ingens 26" ; Times: 1
+	Query: "anolis sagrei distance(location,geopoint(25.806485337547656,-80.13427734375))<100000" ; Times: 1
+	Query: "(UMNH)" ; Times: 1
+	Query: "county:"orange" stateprovince:"California" specificepithet:MEXICANA genus:CHOERONYCTERIS" ; Times: 1
+	Query: "lacm lampanyctus ater" ; Times: 1
+	Query: "cyttarops alecto" ; Times: 2
+	Query: "Sittasomus griseicapillus sylvioides" ; Times: 1
+	Query: "sciurus niger stateprovince:"texas" mappable:1" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "Sceloporus jalapae" ; Times: 2
+	Query: "Boa" ; Times: 1
+	Query: "Masticophis aurigulus" ; Times: 1
+	Query: "lampropeltis getula" ; Times: 2
+	Query: "trinidad" ; Times: 1
+	Query: "class:Mammalia Balaenoptera acutorostrata MVZ" ; Times: 3
+	Query: "Procyon lotor" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "france" ; Times: 4
+	Query: "092280 lacm" ; Times: 1
+	Query: "porphyrio martinica" ; Times: 3
+	Query: "017888 lacm" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "diadophis regalis" ; Times: 1
+	Query: "larimus effulgens" ; Times: 1
+	Query: "MVZ" ; Times: 1
+	Query: "Dipodomys phillipsii" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Reptilia" ; Times: 2
+	Query: "035483 lacm" ; Times: 1
+	Query: "LACM 555 institutioncode:LACM (555)" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: "Prunella himalayana" ; Times: 1
+	Query: "Sceloporus undulatus New Mexico" ; Times: 2
+	Query: "coyote" ; Times: 1
+	Query: "cervidae" ; Times: 1
+	Query: "pika" ; Times: 1
+	Query: "grallaria flavotincta" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "lacm vinciguerria poweriae 1000" ; Times: 1
+	Query: "047109 lacm" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "crotalus atrox stateprovince:"New Mexico"" ; Times: 1
+	Query: "lacm scopelarchoides nicholsi 683" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Hemidactylus frenatus stateprovince:"Baja California" country:"Mexico"" ; Times: 2
+	Query: "specificepithet:semiannulata genus:sonora tissue:1" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 3
+	Query: "anolis sagrei distance(location,geopoint(24.380456829786826,120.9814453125))<184009" ; Times: 3
+	Query: "Plethodon vehiculum" ; Times: 2
+	Query: "felidae" ; Times: 1
+	Query: "Microhyla fissipes year <= 2014 mappable:1" ; Times: 2
+	Query: "Boa constrictor" ; Times: 4
+	Query: "lacm lampanyctus fernae" ; Times: 1
+	Query: "zanclus cornutus" ; Times: 1
+	Query: "Xantusia vigilis LACM Arizona" ; Times: 1
+	Query: "lepophidium pardale" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "lacm melamphaes macrocephalus" ; Times: 1
+	Query: "sylvilagus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "lacm lampanyctus festivus" ; Times: 1
+	Query: "canis latrans vigilis lacm" ; Times: 1
+	Query: "LACM 555" ; Times: 1
+	Query: "dominica" ; Times: 1
+	Query: "035439 lacm" ; Times: 1
+	Query: "masticophis flagellum testaceus" ; Times: 1
+	Query: "grallaria hypoleuca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Balaenoptera musculus type:specimen institutioncode:lacm" ; Times: 2
+	Query: "lacm lampanyctus macdonaldi" ; Times: 1
+	Query: "sardinops" ; Times: 1
+	Query: "Bothriechis" ; Times: 1
+	Query: "lacm melamphaes indicus" ; Times: 1
+	Query: "Eretmochelys" ; Times: 1
+	Query: "lasiurus ega" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:tridecemlineatus" ; Times: 1
+	Query: "anolis sagrei distance(location,geopoint(20.797201434307,-157.763671875))<218898" ; Times: 7
+	Query: "drymarchon" ; Times: 1
+	Query: "lacm neoopisthopterus tropicus" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "regilla stateprovince:"Baja California Sur" country:"Mexico"" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "003288 lacm" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 1
+	Query: "type:specimen (hooded OR setophaga OR wilsonia AND warbler OR citrina)" ; Times: 1
+	Query: "edalorhina" ; Times: 1
+	Query: "distance(location,geopoint(17.811456088564483,-97.822265625))<100000" ; Times: 1
+	Query: "035438 lacm" ; Times: 1
+	Query: "047294 lacm" ; Times: 1
+	Query: "Syncerus mappable:1" ; Times: 1
+	Query: "(Rissa) year >= 1600 year <= 2012" ; Times: 2
+	Query: "072458 lacm" ; Times: 2
+	Query: "Canis latrans" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Amphibia" ; Times: 2
+	Query: "specificepithet:bendirii genus:sorex" ; Times: 1
+	Query: "genus:Hypsiglena tissue:1" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "harrisoni" ; Times: 1
+	Query: "092286 lacm" ; Times: 1
+	Query: "Myocastor coypus stateprovince:"Texas"" ; Times: 1
+	Query: "class:Mammalia taxidea taxus" ; Times: 2
+	Query: "viverra" ; Times: 1
+	Query: "lacm rhinobatos productus 274" ; Times: 1
+	Query: "holbrookia lacerata" ; Times: 2
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: "lacm neoopisthopterus tropicus 18" ; Times: 1
+	Query: "lacm microlepidotus inornatus" ; Times: 1
+	Query: "anolis sagrei distance(location,geopoint(20.797201434307,-157.763671875))<100000" ; Times: 1
+	Query: "Podarcis siculus" ; Times: 1
+	Query: "hyla arborea" ; Times: 1
+	Query: "Xantusia vigilis LACM" ; Times: 1
+	Query: "lacm melamphaes spinifer 1980" ; Times: 1
+	Query: "Anolis sagrei (United States) year >= 1950 year <= 2014 mappable:1" ; Times: 2
+	Query: "canis lupus lacm" ; Times: 1
+	Query: "country:"United States" class:aves catalognumber:10000 mappable:1" ; Times: 1
+	Query: "lacm lampanyctus nobilis" ; Times: 2
+	Query: "Hayward" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Malimbus malimbicus" ; Times: 2
+	Query: "abronia lythrochila" ; Times: 2
+	Query: "gibbon" ; Times: 1
+	Query: "vanellus chilensis" ; Times: 1
+	Query: "county:"Dona Ana" stateprovince:"New Mexico" class:Mammalia year >= 1700 year <= 2014" ; Times: 2
+	Query: "Ochotona princeps" ; Times: 2
+	Query: "Xantusia vigilis Xantusia vigilis LACM" ; Times: 1
+	Query: "Cardinalis cardinalis hastypestatus:1" ; Times: 1
+	Query: "canis lupus lacm washington" ; Times: 1
+	Query: "mellivora" ; Times: 1
+	Query: "LACM Sceloporus magister" ; Times: 1
+	Query: ""dendrophryniscus brevipollicatus"" ; Times: 1
+	Query: "gastrophryne elegans" ; Times: 1
+	Query: "Neusticurus apodemus" ; Times: 2
+	Query: "country:"Colombia" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: ""Lama guanicoe"" ; Times: 2
+	Query: "lacm notoscopelus resplendens" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: "Barnardius" ; Times: 1
+	Query: "Lacerta vivipara" ; Times: 1
+	Query: "Pipra iris" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 2
+	Query: "lepophidium negropinna" ; Times: 1
+	Query: "class:Reptilia catalognumber:4127" ; Times: 1
+	Query: "lacm microstoma microstoma" ; Times: 1
+	Query: "Canis familiaris" ; Times: 1
+	Query: "lynx canadensis" ; Times: 2
+	Query: "Elaphe quatuorlineata" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 12
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "lacm rhinogobiops nicholsii 954" ; Times: 1
+	Query: "stateprovince:"California" class:Amphibia mappable:1 tissue:1" ; Times: 2
+	Query: "016201 lacm" ; Times: 1
+	Query: "anolis gundlachi" ; Times: 2
+	Query: "lacm prionotus albirostris 134" ; Times: 1
+	Query: "Algeria" ; Times: 1
+	Query: "stateprovince:"Nuevo Leon" genus:Chiropterotriton" ; Times: 2
+	Query: "067486 lacm" ; Times: 1
+	Query: "092310 lacm" ; Times: 1
+	Query: "Pimelodus ornatus" ; Times: 1
+	Query: "ursus maritimus" ; Times: 2
+	Query: "vulpes vulpes fulva lacm" ; Times: 4
+	Query: "lacm melamphaes acanthomus" ; Times: 1
+	Query: "008345 lacm" ; Times: 1
+	Query: "lacm neoscopelus macrolepidotus 1450" ; Times: 1
+	Query: "LACM Xantusia vigilis" ; Times: 1
+	Query: "lacm lobianchia gemellarii 31.1" ; Times: 1
+	Query: "blue jay" ; Times: 1
+	Query: "lacm paralichthys aestuarius 55" ; Times: 1
+	Query: "stateprovince:"Tamaulipas" genus:Chiropterotriton" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "033274 lacm" ; Times: 1
+	Query: "xenopus laevis type:specimen mappable:1" ; Times: 2
+	Query: "Anas andium" ; Times: 1
+	Query: "Somateria mollissima skin" ; Times: 1
+	Query: "Lampropeltis getula californiae" ; Times: 4
+	Query: "varanus griseus" ; Times: 1
+	Query: "Microhyla fissipes mappable:1" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "lacm hippopotamus" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys" ; Times: 1
+	Query: "Aspidites" ; Times: 1
+	Query: "crotalus atrox" ; Times: 2
+	Query: "lacm melamphaes laeviceps" ; Times: 1
+	Query: "lacm peprilus simillimus 410" ; Times: 1
+	Query: "092291 lacm" ; Times: 1
+	Query: "vireo griseus stateprovince:"Florida"" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "amphiuma" ; Times: 1
+	Query: "Paris museum" ; Times: 1
+	Query: "092289 lacm" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "Didelphis virginiana type:specimen mappable:1" ; Times: 1
+	Query: "Phyllodactylus reissi" ; Times: 5
+	Query: "country:"Liberia" genus:Agama" ; Times: 1
+	Query: "(myctophum brachygnathum)" ; Times: 1
+	Query: "anolis sagrei (Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "059428 lacm" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "092315 lacm" ; Times: 1
+	Query: ""Palomar Mountain" class:Amphibia" ; Times: 1
+	Query: "033275 lacm" ; Times: 1
+	Query: "genus:odobenus" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 3
+	Query: "Masticophis taeniatus mappable:1" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Sylvilagus brasiliensis" ; Times: 2
+	Query: "marmota flaviventris stateprovince:"California"" ; Times: 1
+	Query: "Amphisbaena caeca" ; Times: 1
+	Query: ""crotalus atrox" type:specimen mappable:1" ; Times: 2
+	Query: "dog" ; Times: 1
+	Query: "hyla arenicolor" ; Times: 2
+	Query: "Canis" ; Times: 1
+	Query: "074129 lacm" ; Times: 1
+	Query: "lacm peprilus snyderi" ; Times: 1
+	Query: "canis latrans lacm" ; Times: 2
+	Query: "ovis" ; Times: 1
+	Query: "country:"United States" class:aves catalognumber:10000" ; Times: 1
+	Query: "vulpes macrotis" ; Times: 2
+	Query: "aratinga" ; Times: 1
+	Query: "canis latrans canada lacm" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Paris" ; Times: 1
+	Query: "bothrops tzotzilorum" ; Times: 1
+	Query: ""Sciurus griseus" stateprovince:"California"" ; Times: 1
+	Query: "lacm symbolophorus californiensis 3824" ; Times: 1
+	Query: "Syncerus" ; Times: 1
+	Query: "canis latrans ochropus lacm" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 3
+	Query: "Tropidophis" ; Times: 5
+	Query: "trimorphodon" ; Times: 1
+	Query: ""Sciurus griseus"" ; Times: 2
+	Query: "buteo jamaicensis alascensis type:specimen country:"United States"" ; Times: 1
+	Query: "cebus" ; Times: 2
+	Query: "lacm lophiodes caulinaris 393" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "Gavia immer" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "specificepithet:ingens genus:dipodomys year >= 1950 year <= 2014" ; Times: 1
+	Query: "brehm type:specimen" ; Times: 1
+	Query: ""Palomar Mountain" class:Reptilia" ; Times: 1
+	Query: "country:"PERU"" ; Times: 1
+	Query: "Pteropus hypomelanus" ; Times: 2
+	Query: "lacm oligoplites saurus" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:vociferus genus:caprimulgus" ; Times: 1
+	Query: "Epicrates" ; Times: 3
+	Query: "Porthidium" ; Times: 1
+	Query: "suricata" ; Times: 5
+	Query: "chaetodipus intermedius" ; Times: 1
+	Query: "lacm ogilbia ventralis" ; Times: 1
+	Query: "003081 lacm" ; Times: 1
+	Query: "092313 lacm" ; Times: 1
+	Query: "Vulpes macrotis mutica" ; Times: 1
+	Query: "Eunectes" ; Times: 3
+	Query: "lacm lampanyctus achirus" ; Times: 1
+	Query: "country:"Colombia" specificepithet:lemniscatus genus:Cnemidophorus" ; Times: 1
+	Query: "lacm oneirodes acanthias 3290" ; Times: 1
+	Query: "lion" ; Times: 1
+	Query: "Henshaw" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona tissue:1" ; Times: 1
+	Query: "092290 lacm" ; Times: 1
+	Query: "029310 lacm" ; Times: 1
+	Query: "Anolis sagrei (United States) AND (NOT Cuba NOT Jamaica NOT Hawaii NOT Bahamas NOT Mexico NOT Belize NOT Honduras) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "california king snake" ; Times: 1
+	Query: "country:"Spain"" ; Times: 1
+	Query: "mephitis mephitis estor" ; Times: 2
+	Query: "pteronotus davyi" ; Times: 1
+	Query: "type:specimen (hooded OR setophaga OR wilsonia AND warbler OR citrina) AND (NOT pusilla)" ; Times: 1
+	Query: "lacm lampanyctus mexicanus" ; Times: 1
+	Query: "todidae" ; Times: 1
+	Query: "canis lupus alaska lacm" ; Times: 1
+	Query: "lacm ilypnus gilberti 24.4" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "phyllodactylus kofordi" ; Times: 1
+	Query: "type:specimen county:"Riverside" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:azueroensis genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:ingens year >= 1950 year <= 2014" ; Times: 1
+	Query: "kovacs" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "alabama "aneides aeneus"" ; Times: 1
+	Query: "genus:Rhinocheilus tissue:1" ; Times: 1
+	Query: "lacm melamphaes suborbitalis" ; Times: 1
+	Query: "Morelia" ; Times: 1
+	Query: ""anolis carolinensis" type:specimen mappable:1" ; Times: 1
+	Query: "Acipenser fulvescens" ; Times: 2
+	Query: "sceloporus siniferus" ; Times: 2
+	Query: "stateprovince:"New Mexico" (microscaphus)" ; Times: 1
+	Query: "092249 lacm" ; Times: 1
+	Query: "Microhyla fissipes" ; Times: 3
+	Query: "phyllodactylus johnwrighti" ; Times: 2
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "melanerpes erythrocephalus" ; Times: 2
+	Query: "specificepithet:araneus genus:Sorex mappable:1" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "class:Mammalia Puma concolor" ; Times: 1
+	Query: "lacm myrichthys" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:cenchria genus:Epicrates" ; Times: 2
+	Query: "Salmon" ; Times: 1
+	Query: "pteronotus parnellii" ; Times: 1
+	Query: "phacochoerus" ; Times: 1
+	Query: "ireland" ; Times: 1
+	Query: "sylvilagus bachmani" ; Times: 1
+	Query: "gastrophryne usta" ; Times: 1
+	Query: "stateprovince:"New Mexico" specificepithet:multivirgatus year <= 2014" ; Times: 1
+	Query: "trachylepis" ; Times: 2
+	Query: "stateprovince:("California" OR "Nevada" OR "Arizona") class:Amphibia mappable:1 tissue:1" ; Times: 1
+	Query: "Holacanthus clarionensis" ; Times: 3
+	Query: "genus:hodomys" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: ""anolis sagrei" type:specimen mappable:1" ; Times: 2
+	Query: "homo sapiens" ; Times: 3
+	Query: "Pseudoeurycea belli" ; Times: 1
+	Query: "specificepithet:hexalepis genus:salvadora" ; Times: 1
+	Query: "county:"Fresno" genus:Thamnophis" ; Times: 2
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "Lynx canadensis distance(location,geopoint(47.15984001304432,-89.033203125))<630563" ; Times: 1
+	Query: "Canis lupus" ; Times: 2
+	Query: "genus:Porthidium year >= 1800 year <= 2014" ; Times: 1
+	Query: "canis latrans british columbia lacm" ; Times: 1
+	Query: "Tantilla bocourti" ; Times: 1
+	Query: "lacm rhinogobiops nicholsii 27.7" ; Times: 1
+	Query: "lacm odontoscion xanthops 21.3" ; Times: 1
+	Query: "sceloporus carinatus" ; Times: 1
+	Query: "Corytophanidae" ; Times: 1
+	Query: "lacm myripristis leiognathos 55" ; Times: 1
+	Query: "bitis" ; Times: 1
+	Query: "lacm lampanyctus ingens" ; Times: 2
+	Query: "lacm menidia" ; Times: 2
+	Query: "Corytophanes cristatus (tissue) tissue:1" ; Times: 1
+	Query: "092287 lacm" ; Times: 1
+	Query: "moloch" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "TACHYMENIS" ; Times: 1
+	Query: "stateprovince:"california" specificepithet:perotis genus:Eumops" ; Times: 1
+	Query: "country:"Colombia"" ; Times: 2
+	Query: "python" ; Times: 2
+	Query: "guatamala" ; Times: 1
+	Query: "anolis sagrei (United States) AND (NOT Cuba NOT Belize NOT Mexico) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "Lynx rufus" ; Times: 2
+	Query: "087624 lacm" ; Times: 1
+	Query: "myotis lucifugus" ; Times: 3
+	Query: "stateprovince:"Nebraska" specificepithet:multivirgatus year <= 2014" ; Times: 2
+	Query: "anolis sagrei distance(location,geopoint(24.578764949598295,-81.7657470703125))<42774" ; Times: 9
+	Query: "Chamaeleo chamaeleon (Israel)" ; Times: 2
+	Query: "clupea" ; Times: 1
+	Query: "genus:Trimorphodon tissue:1" ; Times: 2
+	Query: "anolis sagrei (United States) AND (NOT Cuba NOT Belize NOT Mexico NOT Jamaica NOT Hawaii) year >= 1950 year <= 2014 mappable:1" ; Times: 2
+	Query: "PSM AND 8969" ; Times: 2
+	Query: ""martes pennanti" mappable:1" ; Times: 1
+	Query: "mus musculus" ; Times: 1
+	Query: ""Clemmys"" ; Times: 1
+	Query: "Anolis sagrei (United States) AND (NOT Cuba NOT Jamaica NOT Hawaii NOT Bahamas NOT Mexico NOT Belize) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Sapayoa aenigma" ; Times: 4
+	Query: "lacm myctophum nitidulum 4268" ; Times: 2
+	Query: "Balaenoptera musculus type:specimen" ; Times: 2
+	Query: "lacm nemichthys larseni 2439" ; Times: 1
+	Query: "092246 lacm" ; Times: 1
+	Query: "country:"Colombia" specificepithet:schlegelii" ; Times: 1
+	Query: "glaucomys volans" ; Times: 2
+	Query: "Vireo gilvus victoriae" ; Times: 1
+	Query: "Hypsiglena" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 3
+	Query: "larimus effulgens 27.4" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 3
+	Query: "Calidris melanotos" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 3
+	Query: "092247 lacm" ; Times: 1
+	Query: "vulpes fulva" ; Times: 1
+	Query: "miniopterus" ; Times: 2
+	Query: "lacm novaculichthys taeniourus 46" ; Times: 1
+	Query: "leuroglossus stilbius 3824" ; Times: 1
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "Rana forreri" ; Times: 2
+	Query: "tantilla hobartsmithi" ; Times: 3
+	Query: "aves brehm" ; Times: 1
+	Query: "trachemys venusta" ; Times: 2
+	Query: "phrynosoma asio" ; Times: 3
+	Query: "lacm sagamichthys abei 4268" ; Times: 1
+	Query: "phyllodactylus reissi" ; Times: 6
+	Query: "geotrygon violacea" ; Times: 1
+	Query: "Callipepla californica canfieldae" ; Times: 1
+	Query: "coiba" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 2
+	Query: "092284 lacm" ; Times: 1
+	Query: "Lasiurus cinereus institutioncode:LACM" ; Times: 1
+	Query: "Sceloporus magister LACM" ; Times: 1
+	Query: "lacm menticirrhus undulatus" ; Times: 1
+	Query: "stateprovince:"Alabama" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "lacm muraena lentiginosa" ; Times: 1
+	Query: "malacochersus" ; Times: 1
+	Query: "crotalus molossus distance(location,geopoint(32.24997445586331,-108.10546875))<100000" ; Times: 1
+	Query: "Hypsiglena tissue:1" ; Times: 1
+	Query: "thyroptera discifera" ; Times: 1
+	Query: "Corallus" ; Times: 2
+	Query: "lacm 20542" ; Times: 1
+	Query: "lacm lampadena urophaos" ; Times: 1
+	Query: "lacm oligoplites altus" ; Times: 1
+	Query: "vireo idaho" ; Times: 1
+	Query: "candoia bibroni" ; Times: 2
+	Query: "charina bottae" ; Times: 3
+	Query: "oncorhynchus clarki" ; Times: 1
+	Query: "lacm microspathodon bairdii 20" ; Times: 1
+	Query: "lacm photonectes margarita 3290" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "marmota marmota" ; Times: 1
+	Query: "092285 lacm" ; Times: 1
+	Query: "LACM 132180 LACM 132180" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: ""crotalus stejnegeri"" ; Times: 1
+	Query: ""crotalus adamanteus" type:specimen mappable:1" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 3
+	Query: "lacm larimus acclivis" ; Times: 1
+	Query: "lacm microspathodon dorsalis 91" ; Times: 1
+	Query: "Callipepla californica decolorata" ; Times: 1
+	Query: "092288 lacm" ; Times: 1
+	Query: "FMNH" ; Times: 2
+	Query: "Odobenus" ; Times: 3
+	Query: "Castor canadensis" ; Times: 1
+	Query: "lacm serrivomer sector 4268" ; Times: 1
+	Query: "Ixalotriton niger" ; Times: 1
+	Query: "burma" ; Times: 1
+	Query: "Mabuya AND Botswana" ; Times: 12
+	Query: "Myotis austroriparius mappable:1" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis" ; Times: 1
+	Query: "Ammospermophilus nelsoni" ; Times: 2
+	Query: "Microtus californicus scirpensis" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "lacm myctophum aurolaternatum 1000" ; Times: 1
+	Query: "054170 lacm" ; Times: 1
+	Query: "Xantusia henshawi LACM" ; Times: 1
+	Query: "lacm rathbunella alleni" ; Times: 1
+	Query: "rhadinaea decorata" ; Times: 2
+	Query: "martes americana distance(location,geopoint(46.67959446564022,-91.669921875))<567178" ; Times: 1
+	Query: "genus:Salvadora tissue:1" ; Times: 1
+	Query: "017889 lacm" ; Times: 1
+	Query: "070187 lacm" ; Times: 1
+	Query: "stateprovince:"Puebla" country:"Mexico" year <= 2010" ; Times: 1
+	Query: "canis lupus canada lacm" ; Times: 3
+	Query: "lacm porichthys mimeticus 298" ; Times: 1
+	Query: "Ascaphus" ; Times: 1
+	Query: "tropidodipsas fasciata" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Reptilia" ; Times: 2
+	Query: "059430 lacm" ; Times: 1
+	Query: "mandrillus sphinx" ; Times: 1
+	Query: "lepidophyma flavimaculatum" ; Times: 2
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "county:"Aiken" stateprovince:"South Carolina" country:"United States" class:Reptilia" ; Times: 1
+	Query: "heloderma horridum" ; Times: 1
+	Query: "bassariscus" ; Times: 1
+	Query: "lacm symbolophorus evermanni 3820" ; Times: 1
+	Query: "tasmania" ; Times: 1
+	Query: "eumeces schneideri" ; Times: 1
+	Query: "031248 lacm" ; Times: 1
+	Query: "specificepithet:ingens" ; Times: 1
+	Query: "canis latrans ochropus" ; Times: 1
+	Query: "leptophis" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "010291 lacm" ; Times: 1
+	Query: "lynx" ; Times: 1
+	Query: "lacm microspathodon bairdii" ; Times: 1
+	Query: "chiroptera type:specimen (palo verde)" ; Times: 1
+	Query: "Boa constrictor constrictor" ; Times: 1
+	Query: "type:specimen specificepithet:parva genus:Cryptotis year <= 2014" ; Times: 1
+	Query: "010292 lacm" ; Times: 1
+	Query: "Telespiza ultima" ; Times: 7
+	Query: "stateprovince:"Sonora"" ; Times: 2
+	Query: "lacm lampanyctus acanthurus" ; Times: 1
+	Query: "MSB" ; Times: 1
+	Query: "genus:Leopardus" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "ondatra" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 2
+	Query: "country:"Colombia" distance(location,geopoint(-0.5203058582606232,-71.19140625))<1048728.0342806407" ; Times: 2
+	Query: "lacm melamphaes lugubris 2287" ; Times: 1
+	Query: "lacm syacium ovale 104" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "062849 lacm" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "vulpes vulpes fulva" ; Times: 1
+	Query: "morphnus" ; Times: 1
+	Query: "Blue whale" ; Times: 1
+	Query: "stateprovince:"Arizona" specificepithet:multivirgatus year <= 2014" ; Times: 2
+	Query: "Smithornis rufolateralis budongoensis" ; Times: 1
+	Query: "elaenia ruficeps" ; Times: 1
+	Query: "specificepithet:hexalepis genus:Salvadora tissue:1" ; Times: 2
+	Query: "pinus" ; Times: 1
+	Query: "herpestes" ; Times: 1
+	Query: "lacm nomeus gronovii" ; Times: 1
+	Query: "museum of TTU" ; Times: 1
+	Query: "rabbit" ; Times: 1
+	Query: "anolis sagrei" ; Times: 5
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "035442 lacm" ; Times: 1
+	Query: "Des*" ; Times: 1
+	Query: "lacm tomicodon boehlkei 15" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 106 (out of 178 download events in this period)
+Total number of records downloaded: 26157 (out of 878465 records downloaded for all resources in this period)
+Total number of unique records downloaded: 22783
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Germany ; Times: 9
+	Country: Mexico ; Times: 18
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 69
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 2
+	Date: 2014-11-04 ; Times: 3
+	Date: 2014-11-05 ; Times: 5
+	Date: 2014-11-06 ; Times: 8
+	Date: 2014-11-07 ; Times: 2
+	Date: 2014-11-08 ; Times: 1
+	Date: 2014-11-10 ; Times: 6
+	Date: 2014-11-11 ; Times: 1
+	Date: 2014-11-12 ; Times: 8
+	Date: 2014-11-13 ; Times: 1
+	Date: 2014-11-14 ; Times: 1
+	Date: 2014-11-17 ; Times: 1
+	Date: 2014-11-18 ; Times: 6
+	Date: 2014-11-19 ; Times: 5
+	Date: 2014-11-20 ; Times: 6
+	Date: 2014-11-21 ; Times: 11
+	Date: 2014-11-22 ; Times: 2
+	Date: 2014-11-24 ; Times: 10
+	Date: 2014-11-25 ; Times: 13
+	Date: 2014-11-26 ; Times: 8
+	Date: 2014-11-27 ; Times: 2
+	Date: 2014-11-28 ; Times: 2
+	Date: 2014-11-29 ; Times: 1
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lacerta vivipara" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:tridecemlineatus" ; Times: 2
+	Query: "Liolaemus" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "regilla stateprovince:"Baja California Sur" country:"Mexico"" ; Times: 1
+	Query: "Taxidea taxus distance(location,geopoint(46.67959446564022,-91.669921875))<567178" ; Times: 1
+	Query: "Proechimys" ; Times: 1
+	Query: "Rissa brevirostris" ; Times: 1
+	Query: "Anolis sagrei (Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "type:specimen specificepithet:fumeus genus:Sorex year <= 2014" ; Times: 1
+	Query: "Natrix natrix" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "(chaetodon auriga)" ; Times: 1
+	Query: "E. heller Mammalia Kenya" ; Times: 1
+	Query: "python" ; Times: 1
+	Query: "Anolis sagrei (United States) AND (NOT Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "myrmeciza exsul" ; Times: 1
+	Query: "anolis sagrei (United States) AND (NOT Cuba NOT Belize NOT Mexico NOT Jamaica NOT Hawaii NOT Bahamas NOT Honduras) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "Ophisaurus" ; Times: 1
+	Query: "coiba" ; Times: 1
+	Query: "stateprovince:"puebla" country:"Mexico" year <= 2010" ; Times: 1
+	Query: "Epicrates" ; Times: 1
+	Query: "Sceloporus magister LACM" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "stateprovince:"Alabama" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "aves de chihuahua" ; Times: 1
+	Query: "Vulpes macrotis mutica" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "vulpes fulva stateprovince:"Michigan"" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "ambystoma rosaceum" ; Times: 1
+	Query: "Microcebus murinus" ; Times: 1
+	Query: "stateprovince:"Utah" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "Mesomys" ; Times: 1
+	Query: "LACM Sceloporus magister" ; Times: 2
+	Query: "cricetomys" ; Times: 2
+	Query: "Natrix maura" ; Times: 2
+	Query: "type:specimen county:"Riverside" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "genus:Hypsiglena tissue:1" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "eptesicus brasiliensis" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "Morelia" ; Times: 1
+	Query: ""anolis carolinensis" type:specimen mappable:1" ; Times: 1
+	Query: "Mabuya AND Botswana" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis" ; Times: 1
+	Query: "stateprovince:"Nuevo Leon" country:"Mexico" genus:Chiropterotriton" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Aruba Reptilia" ; Times: 1
+	Query: "drymarchon couperi" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "lampropeltis getula" ; Times: 1
+	Query: "specificepithet:araneus genus:Sorex mappable:1" ; Times: 1
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "type:specimen specificepithet:tucanus genus:ramphastos class:aves" ; Times: 1
+	Query: "martes americana distance(location,geopoint(46.67959446564022,-91.669921875))<567178" ; Times: 1
+	Query: "(vermivora OR Oreothlypis OR Parula) mappable:1" ; Times: 1
+	Query: "Chaetodon auriga" ; Times: 1
+	Query: "county:"Dona Ana" stateprovince:"New Mexico" class:Mammalia year >= 1700 year <= 2014" ; Times: 1
+	Query: "Numenius borealis" ; Times: 1
+	Query: ""anolis sagrei" type:specimen mappable:1" ; Times: 1
+	Query: "genus:Porthidium year >= 1800 year <= 2014" ; Times: 1
+	Query: "phyllodactylus kofordi" ; Times: 1
+	Query: "Lampropeltis getula californiae" ; Times: 2
+	Query: "chalarodon" ; Times: 1
+	Query: "dendroica" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "type:specimen specificepithet:parva genus:Cryptotis year <= 2014" ; Times: 1
+	Query: "Loxocemus" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "Lynx canadensis distance(location,geopoint(47.15984001304432,-89.033203125))<796132" ; Times: 1
+	Query: ""Palomar Mountain" class:Reptilia" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Crotalus durissus country:"Mexico"" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Didelphis virginiana type:specimen mappable:1" ; Times: 1
+	Query: "Phyllodactylus reissi" ; Times: 1
+	Query: "Xantusia vigilis LACM Arizona" ; Times: 1
+	Query: "Dasypus novemcinctus type:specimen mappable:1" ; Times: 1
+	Query: "anolis sagrei (Cuba) year >= 1950 year <= 2014 mappable:1" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Masticophis taeniatus mappable:1" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 2
+	Query: "Amphisbaena caeca" ; Times: 1
+	Query: ""crotalus atrox" type:specimen mappable:1" ; Times: 1
+	Query: "Neacomys" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 9183
+Total number of records retrieved from searches: 171707
+Number of download events that retrieved data from the resource: 1219
+Total number of records downloaded: 826908
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 9183
+Total number of records retrieved from searches: 171707
+Number of download events that retrieved data from the resource: 1448
+Total number of records downloaded: 1593109
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
