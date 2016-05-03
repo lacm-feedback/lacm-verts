@@ -1,0 +1,3271 @@
+Report for Institution Code LACM, Resource lacm_verts
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4747
+Number of records retrieved in searches: 113426
+Number of different countries where searches have been originated: 40
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 181
+	Country: Canada ; Times: 151
+	Country: Italy ; Times: 4
+	Country: Peru ; Times: 4
+	Country: Unknown ; Times: 1235
+	Country: Panama ; Times: 228
+	Country: Costa Rica ; Times: 33
+	Country: France ; Times: 7
+	Country: Suriname ; Times: 4
+	Country: Argentina ; Times: 17
+	Country: Norway ; Times: 4
+	Country: Ecuador ; Times: 1
+	Country: Montenegro ; Times: 1
+	Country: Guatemala ; Times: 3
+	Country: Germany ; Times: 28
+	Country: Chile ; Times: 5
+	Country: Puerto Rico ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 4
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 11
+	Country: Ukraine ; Times: 2
+	Country: Netherlands ; Times: 7
+	Country: Denmark ; Times: 2
+	Country: Poland ; Times: 1
+	Country: United States ; Times: 2134
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 8
+	Country: New Zealand ; Times: 6
+	Country: Russia ; Times: 71
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 431
+	Country: United Arab Emirates ; Times: 1
+	Country: South Africa ; Times: 5
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 32
+	Country: Colombia ; Times: 103
+	Country: Paraguay ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 69
+	Date: 2016-04-28 ; Times: 83
+	Date: 2016-04-07 ; Times: 152
+	Date: 2016-04-06 ; Times: 252
+	Date: 2016-04-05 ; Times: 339
+	Date: 2016-04-04 ; Times: 154
+	Date: 2016-04-21 ; Times: 121
+	Date: 2016-04-20 ; Times: 163
+	Date: 2016-04-09 ; Times: 106
+	Date: 2016-04-08 ; Times: 210
+	Date: 2016-04-25 ; Times: 161
+	Date: 2016-04-24 ; Times: 63
+	Date: 2016-04-27 ; Times: 542
+	Date: 2016-04-26 ; Times: 204
+	Date: 2016-04-22 ; Times: 256
+	Date: 2016-04-18 ; Times: 107
+	Date: 2016-04-19 ; Times: 190
+	Date: 2016-04-14 ; Times: 135
+	Date: 2016-04-15 ; Times: 109
+	Date: 2016-04-16 ; Times: 55
+	Date: 2016-04-17 ; Times: 89
+	Date: 2016-04-10 ; Times: 68
+	Date: 2016-04-11 ; Times: 282
+	Date: 2016-04-12 ; Times: 159
+	Date: 2016-04-13 ; Times: 222
+	Date: 2016-04-29 ; Times: 308
+	Date: 2016-04-02 ; Times: 95
+	Date: 2016-04-23 ; Times: 53
+
+List of queries that retrieved data from the resource: 
+	Query: "LACM 7375" ; Times: 2
+	Query: "Phyllorhynchus decurtatus baja california sur" ; Times: 1
+	Query: "catalognumber:181622 institutioncode:LACM" ; Times: 2
+	Query: "Athene AND Island" ; Times: 1
+	Query: "catalognumber:181575 institutioncode:LACM" ; Times: 2
+	Query: "spiders" ; Times: 1
+	Query: "Anacapa AND Herps" ; Times: 1
+	Query: "piura" ; Times: 1
+	Query: "iguana iguana mappable:1 tissue:1" ; Times: 1
+	Query: "catalognumber:104986 institutioncode:LACM" ; Times: 4
+	Query: "distance(location,geopoint(20.929036,-105.197516))&lt;15000" ; Times: 3
+	Query: "dubusia taeniata" ; Times: 1
+	Query: "catalognumber:134032 institutioncode:LACM" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-109.957516))&lt;15000" ; Times: 3
+	Query: "type:specimen genus:Pyrrhura (lucianii) institutioncode:LACM" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "Uma notata baja california" ; Times: 1
+	Query: "family:Ranidae stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-108.427516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-106.387516))&lt;15000" ; Times: 3
+	Query: "Pipa" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-107.237516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-110.977516))&lt;15000" ; Times: 1
+	Query: "specificepithet:leo genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "type:specimen genus:Starnoenas" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.297516))&lt;15000" ; Times: 1
+	Query: "martes americana" ; Times: 4
+	Query: "Anolis limifrons mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-105.537516))&lt;15000" ; Times: 2
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-108.257516))&lt;15000" ; Times: 1
+	Query: "polychopterus cinereiventris" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.557516))&lt;15000" ; Times: 1
+	Query: "catalognumber:116014 institutioncode:LACM" ; Times: 3
+	Query: "plectorhinchus lineatus" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 3
+	Query: "Myotis volans stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "Panthera onca mexico" ; Times: 1
+	Query: "Tichodroma" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "psittacula eupatria india" ; Times: 1
+	Query: "Dipsosaurus dorsalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "type:specimen genus:Mirounga order:Carnivora" ; Times: 3
+	Query: "distance(location,geopoint(23.819036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "aegotheles insignis" ; Times: 2
+	Query: "tuxpan" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "county:&#34;Chelan&#34; stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.367516))&lt;15000" ; Times: 5
+	Query: "type:specimen order:Rodentia locality:Los Angeles county:&#34;Los Angeles&#34; preparations:Skeleton institutioncode:LACM" ; Times: 2
+	Query: "stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 2
+	Query: "distance(location,geopoint(21.439036,-105.367516))&lt;15000" ; Times: 5
+	Query: "specificepithet:tigrina genus:Dendroica month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "Arizona elegans Baja California" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-107.747516))&lt;15000" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-107.237516))&lt;15000" ; Times: 1
+	Query: "plestiodon lagunensis" ; Times: 1
+	Query: "herps AND panama institutioncode:LACM" ; Times: 1
+	Query: "Cyanerpes type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.447516))&lt;15000" ; Times: 1
+	Query: "specificepithet:genetta genus:genetta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "puma concolor california type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP OR institutioncode:SBMNH" ; Times: 1
+	Query: "reptilia stateprovince:&#34;California&#34; (La Grange )" ; Times: 2
+	Query: "San Nicolas Island AND 1918" ; Times: 1
+	Query: "pachyramphus polychopterus tristis" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-112.337516))&lt;15000" ; Times: 1
+	Query: "Chrysothlypis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "San Nicolas Island AND 1915" ; Times: 1
+	Query: "nuevo leon" ; Times: 1
+	Query: "phyllopezus pollicaris" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(23.479036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.929036,-106.727516))&lt;15000" ; Times: 5
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Rowley AND Island" ; Times: 1
+	Query: "ameiva corax (Anguilla)" ; Times: 1
+	Query: "170933" ; Times: 1
+	Query: "starnoenas" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-108.767516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(22.799036,-105.537516))&lt;15000" ; Times: 1
+	Query: "mammals of texas" ; Times: 28
+	Query: "distance(location,geopoint(24.499036,-111.997516))&lt;15000" ; Times: 1
+	Query: "CM San Clemente Island California" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "Natrix natrix" ; Times: 2
+	Query: "vigilis stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-106.727516))&lt;15000" ; Times: 1
+	Query: "Lichanura la Paz county" ; Times: 1
+	Query: "lacm dinomyidae" ; Times: 1
+	Query: "catalognumber:122476 institutioncode:LACM" ; Times: 2
+	Query: "genus:Phyllomedusa specificepithet:tomopterna" ; Times: 1
+	Query: "bison mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-109.957516))&lt;15000" ; Times: 3
+	Query: "Desmognathus fuscus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-108.597516))&lt;15000" ; Times: 1
+	Query: "Gunnellichthys" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.977516))&lt;15000" ; Times: 1
+	Query: "adelophis" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-107.407516))&lt;15000" ; Times: 1
+	Query: "nettapus skeleton" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1935 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-108.597516))&lt;15000" ; Times: 1
+	Query: "Wetmorethraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "capromys" ; Times: 1
+	Query: "Colombia" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-107.747516))&lt;15000" ; Times: 1
+	Query: "centralis" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-108.767516))&lt;15000" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 9
+	Query: "distance(location,geopoint(31.299036,-105.367516))&lt;15000" ; Times: 1
+	Query: "herps institutioncode:LACM" ; Times: 1
+	Query: "Tachyphonus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "LACM 122409" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "distance(location,geopoint(26.199036,-112.337516))&lt;15000" ; Times: 1
+	Query: "genus:Aneides specificepithet:aeneus" ; Times: 1
+	Query: "lacm gliridae" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "Camarhynchus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 4
+	Query: "Branta nigricans (British Columbia)" ; Times: 1
+	Query: "Branta bernicla (British Columbia)" ; Times: 1
+	Query: "Antrozous AND Santa Barbara Island" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-113.187516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.349036,-108.427516))&lt;15000" ; Times: 1
+	Query: "Creurgops type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "panthera pardus" ; Times: 2
+	Query: "distance(location,geopoint(24.159036,-107.067516))&lt;15000" ; Times: 1
+	Query: "beebei" ; Times: 1
+	Query: "sotalia fluviatilis" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.539036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Cissopis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.657516))&lt;15000" ; Times: 2
+	Query: "genus:Mantella specificepithet:aurantiaca" ; Times: 2
+	Query: "distance(location,geopoint(30.619036,-110.977516))&lt;15000" ; Times: 1
+	Query: "catalognumber:84042 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-106.047516))&lt;15000" ; Times: 1
+	Query: "Myotis AND Island AND California" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "jalisco mammals" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 2
+	Query: "Dipodomys venustus" ; Times: 2
+	Query: "genus:Senticolis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: "atractaspis" ; Times: 1
+	Query: "crex" ; Times: 2
+	Query: "genus:Rana specificepithet:blairi" ; Times: 1
+	Query: "Anacapa AND LACM AND Herps" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.787516))&lt;15000" ; Times: 1
+	Query: "catalognumber:52566 institutioncode:LACM" ; Times: 3
+	Query: "N. Gale" ; Times: 1
+	Query: "lacm cavia" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "genus:lampropeltis order:squamata stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "Colinus virginianus insignis type:specimen" ; Times: 1
+	Query: "violacea" ; Times: 1
+	Query: "Agelaius phoeniceus Florida Dade County" ; Times: 1
+	Query: "herps type:specimen recordedby:T. Wake institutioncode:LACM" ; Times: 1
+	Query: "type:specimen specificepithet:albiventer genus:Tachycineta mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(23.989036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.269036,-105.197516))&lt;15000" ; Times: 7
+	Query: "Anolis humilis" ; Times: 1
+	Query: "megasorex gigas" ; Times: 1
+	Query: "mammals durango" ; Times: 2
+	Query: "crotalus tigris" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-106.387516))&lt;15000" ; Times: 4
+	Query: "Megasorex" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-106.047516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "Elaenia spectabilis" ; Times: 2
+	Query: "distance(location,geopoint(23.479036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Haplospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "type:specimen genus:iguana tissue:1" ; Times: 1
+	Query: "lacm aplodontia" ; Times: 4
+	Query: "specificepithet:jamaicensis genus:Buteo preparations:skin" ; Times: 1
+	Query: "Phrynosoma imperial" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "puma concolor california type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP" ; Times: 1
+	Query: "genus:proechimys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Trichothraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "COENDOU" ; Times: 1
+	Query: "specificepithet:variegatoides genus:Sciurus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Oncorhynchus clarki henshawi" ; Times: 84
+	Query: "Felis AND Island AND California" ; Times: 1
+	Query: "LACM AND Kanakoff" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-106.557516))&lt;15000" ; Times: 1
+	Query: "Sauromalus ater Baja California Sur" ; Times: 1
+	Query: "catalognumber:122475 institutioncode:LACM" ; Times: 2
+	Query: "catalognumber:134029 institutioncode:LACM" ; Times: 3
+	Query: "pika" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "Gymnophiona cre" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-112.677516))&lt;15000" ; Times: 1
+	Query: "catalognumber:181639 institutioncode:LACM" ; Times: 4
+	Query: "Bassariscus type:specimen mappable:1" ; Times: 3
+	Query: "Sporophila type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-109.107516))&lt;15000" ; Times: 3
+	Query: "pteroglossus inscriptus" ; Times: 2
+	Query: "distance(location,geopoint(21.609036,-106.387516))&lt;15000" ; Times: 6
+	Query: "minnesota mammalia" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-107.407516))&lt;15000" ; Times: 1
+	Query: "mabuya unimarginata" ; Times: 1
+	Query: "Minatitlan -Colima" ; Times: 5
+	Query: "distance(location,geopoint(31.469036,-108.767516))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:albilinea genus:Tachycineta mappable:1" ; Times: 1
+	Query: "catalognumber:134033 institutioncode:LACM" ; Times: 2
+	Query: "selasphorus sasin institutioncode:LACM" ; Times: 1
+	Query: "catalognumber:114668 institutioncode:LACM" ; Times: 2
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "Arizona elegans Sinaloa" ; Times: 1
+	Query: "Lichanura trivirgata" ; Times: 2
+	Query: "distance(location,geopoint(25.519036,-111.997516))&lt;15000" ; Times: 1
+	Query: "family:vespertilionidae order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "distance(location,geopoint(23.819036,-106.727516))&lt;15000" ; Times: 2
+	Query: "Urotheca guentheri" ; Times: 2
+	Query: "distance(location,geopoint(30.449036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Island AND 1915" ; Times: 1
+	Query: "San Nicolas Island AND 1900" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-106.047516))&lt;15000" ; Times: 1
+	Query: "institutioncode:lacm" ; Times: 3
+	Query: "dendrexetastes" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.707516))&lt;15000" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "Anacapa Island California" ; Times: 5
+	Query: "phrynosoma cornutum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-107.237516))&lt;15000" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 4
+	Query: "Bassariscus astutus institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-112.337516))&lt;15000" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "Howell AND LACM AND Island" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.877516))&lt;15000" ; Times: 3
+	Query: "Bucephala albeola" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-110.127516))&lt;15000" ; Times: 1
+	Query: "RHINOCHIMAERIDAE" ; Times: 2
+	Query: "lionotus" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-110.297516))&lt;15000" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.537516))&lt;15000" ; Times: 1
+	Query: "ANSP" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "charina county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-110.297516))&lt;15000" ; Times: 1
+	Query: "class:aves catalognumber:26819" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-112.507516))&lt;15000" ; Times: 1
+	Query: "specificepithet:sanguinea genus:Galerella family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "MYIOBIUS ATRICAUDUS" ; Times: 6
+	Query: "specificepithet:cristata genus:proteles order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "Pseudoeurycea robertsi" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-105.707516))&lt;15000" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "distance(location,geopoint(30.619036,-115.057516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-107.407516))&lt;15000" ; Times: 1
+	Query: "farancia (North Carolina)" ; Times: 1
+	Query: "caesio cuning" ; Times: 1
+	Query: "C 0119" ; Times: 1
+	Query: "lynx canadensis year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 2
+	Query: "Cochise county lampropeltis" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "158056" ; Times: 1
+	Query: "LACM 122410" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 9
+	Query: "type:specimen genus:Psittacula (alexandri)" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-113.867516))&lt;15000" ; Times: 5
+	Query: "locality:Berkeley" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.997516))&lt;15000" ; Times: 1
+	Query: "156622" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-113.697516))&lt;15000" ; Times: 1
+	Query: "Batrachoseps campi" ; Times: 1
+	Query: "van Rossem AND San Clemente Island AND LACM" ; Times: 1
+	Query: "gallinula chloropus skeleton" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.317516))&lt;15000" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:20025 institutioncode:LACM" ; Times: 2
+	Query: "order:squamata county:&#34;bee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "dickey" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-109.787516))&lt;15000" ; Times: 3
+	Query: "specificepithet:JACKSONI genus:BDEOGALE family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "population data" ; Times: 1
+	Query: "diploglossus pleii" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "Trogon curucui" ; Times: 1
+	Query: "catalognumber:181618 institutioncode:LACM" ; Times: 2
+	Query: "specificepithet:discolor genus:Dendroica mappable:1" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-105.877516))&lt;15000" ; Times: 2
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.127516))&lt;15000" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 2
+	Query: "POMACANTHIDAE" ; Times: 3
+	Query: "chelonia mydas" ; Times: 1
+	Query: "genus:Siren" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Bassariscus astutus county:&#34;San Diego&#34; institutioncode:LACM" ; Times: 1
+	Query: "Seicercus poliogenys" ; Times: 4
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "rIPARIA RIPARIA" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 3
+	Query: "stateprovince:&#34;Arizona&#34; (lichanura)" ; Times: 5
+	Query: "jaguar" ; Times: 1
+	Query: "Dendroica tigrina" ; Times: 1
+	Query: "Pachyramphus polychopterus brazil" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-105.197516))&lt;15000" ; Times: 1
+	Query: "CALLORHINCHIDAE" ; Times: 2
+	Query: "Helminthophis frontalis" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.217516))&lt;15000" ; Times: 1
+	Query: "Nemosia type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "cinereiventris" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.449036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Larus AND Anacapa" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.537516))&lt;15000" ; Times: 1
+	Query: "LACM Herps 75482" ; Times: 1
+	Query: "bull kelp" ; Times: 1
+	Query: "pycnonotus leucogenys india" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(9.665738395188692,-82.33154296875))&lt;469780" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "skull genus:Phapitreron preparations:skull" ; Times: 1
+	Query: "specificepithet:maculata genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Columba preparations:Skeleton institutioncode:LACM" ; Times: 1
+	Query: "county:&#34;Glenn&#34;" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 3
+	Query: "distance(location,geopoint(23.139036,-109.447516))&lt;15000" ; Times: 1
+	Query: "(chalco)" ; Times: 1
+	Query: "catalognumber:57993 institutioncode:LACM" ; Times: 1
+	Query: "Chionactis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.997516))&lt;15000" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.317516))&lt;15000" ; Times: 1
+	Query: "(fish) institutioncode:LACM" ; Times: 1
+	Query: "specificepithet:paca genus:cuniculus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Hyaenidae" ; Times: 1
+	Query: "specificepithet:albicauda genus:ichneumia family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "specificepithet:ravus genus:crotalus institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.237516))&lt;15000" ; Times: 1
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "UCLA AND 8946" ; Times: 1
+	Query: "phylloscopus reguloides india" ; Times: 2
+	Query: "rana tarahumarae" ; Times: 4
+	Query: "LACM 20138" ; Times: 1
+	Query: "pyrrhura perlata" ; Times: 6
+	Query: "ptychadena christyi" ; Times: 1
+	Query: "martes pennanti" ; Times: 1
+	Query: "Catamblyrhynchus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "hydromantes brunus distance(location,geopoint(37.65193359150245,-119.8553466796875))&lt;100000" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-109.447516))&lt;15000" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "catalognumber:104871 institutioncode:LACM" ; Times: 2
+	Query: "Lepidophyma" ; Times: 3
+	Query: "lacm ctenomys" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 1
+	Query: "catalognumber:116013 institutioncode:LACM" ; Times: 3
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "specificepithet:barlagnei genus:Eleutherodactylus" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-111.147516))&lt;15000" ; Times: 1
+	Query: "lacm aplodonta OR gliridae" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-113.697516))&lt;15000" ; Times: 4
+	Query: "LACM 5337" ; Times: 3
+	Query: "LACM 5336" ; Times: 3
+	Query: "distance(location,geopoint(21.779036,-106.557516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(23.989036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Gubernatrix type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.697516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-110.637516))&lt;15000" ; Times: 2
+	Query: "Hyla wrightorum type:specimen" ; Times: 1
+	Query: "crotalus molossus" ; Times: 2
+	Query: "Tyto alba Ontario" ; Times: 10
+	Query: "catalognumber:136979 institutioncode:LACM" ; Times: 1
+	Query: "class:amphibia county:&#34;Scott&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "macropinna institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-109.617516))&lt;15000" ; Times: 1
+	Query: "catalognumber:8672 institutioncode:LACM" ; Times: 5
+	Query: "crex crex" ; Times: 1
+	Query: "San Nicolas Island AND 1939" ; Times: 3
+	Query: "San Nicolas Island AND 1938" ; Times: 3
+	Query: "Pipa pipa" ; Times: 1
+	Query: "San Nicolas Island AND 1936" ; Times: 1
+	Query: "San Nicolas Island AND 1930" ; Times: 1
+	Query: "1874-8-24" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.977516))&lt;15000" ; Times: 1
+	Query: "sceloporus undulatus ALABAMA" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 2
+	Query: "coleonyx reticulatus" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-105.537516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(25.689036,-108.767516))&lt;15000" ; Times: 1
+	Query: "sphiggurus pruinosus" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.197516))&lt;15000" ; Times: 7
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Diglossa type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 5
+	Query: "distance(location,geopoint(21.609036,-113.697516))&lt;15000" ; Times: 5
+	Query: "lampropeltis calligaster" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "UTA R-4450" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-112.847516))&lt;15000" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 2
+	Query: "Bioko Island class:Mammalia" ; Times: 2
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "Bassariscus mappable:1" ; Times: 2
+	Query: "specificepithet:arietans genus:bitis institutioncode:LACM" ; Times: 1
+	Query: "ammotragus" ; Times: 2
+	Query: "Gymnotus" ; Times: 1
+	Query: "luscinioides" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 2
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "MVZ 10855" ; Times: 2
+	Query: "pelamis platurus" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana county:&#34;Imperial&#34; stateprovince:&#34;California&#34; institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-108.597516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-106.047516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(28.749036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Pyrrhura perlata" ; Times: 1
+	Query: "castor canadensis (san diego) institutioncode:LACM" ; Times: 4
+	Query: "distance(location,geopoint(21.269036,-106.047516))&lt;15000" ; Times: 5
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 4
+	Query: "distance(location,geopoint(22.119036,-110.467516))&lt;15000" ; Times: 3
+	Query: "crotalus atrox" ; Times: 2
+	Query: "catalognumber:84027 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-105.537516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-105.707516))&lt;15000" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "Myrmotherula schisticolor" ; Times: 1
+	Query: "family:Cathartidae stateprovince:&#34;Meta&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "chioglossa" ; Times: 1
+	Query: "monroe country year &gt;= 1912 year &lt;= 1928" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "tamias striatus" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.847516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-113.017516))&lt;15000" ; Times: 1
+	Query: "catalognumber:181577 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(20.929036,-107.067516))&lt;15000" ; Times: 3
+	Query: "LACM 130369" ; Times: 1
+	Query: "masticophis flagellum ruddocki" ; Times: 1
+	Query: "specificepithet:LEO genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "38758" ; Times: 1
+	Query: "distance(location,geopoint(27.899036,-115.057516))&lt;15000" ; Times: 1
+	Query: "skin type:specimen specificepithet:spiza genus:Chlorophanes sex:male" ; Times: 1
+	Query: "saguinus oedipus" ; Times: 3
+	Query: "distance(location,geopoint(26.709036,-106.897516))&lt;15000" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 2
+	Query: "San Nicolas Island AND 1912" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-107.577516))&lt;15000" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "catalognumber:43320 institutioncode:LACM" ; Times: 1
+	Query: "spilotes" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.147516))&lt;15000" ; Times: 1
+	Query: "LUVARIDAE" ; Times: 2
+	Query: "family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-106.897516))&lt;15000" ; Times: 1
+	Query: "heterodontidae" ; Times: 2
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "specificepithet:deppei genus:Sciurus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Lophospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-109.277516))&lt;15000" ; Times: 1
+	Query: "Ara" ; Times: 4
+	Query: "dipodomys deserti (nevada)" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.427516))&lt;15000" ; Times: 1
+	Query: "LACM Mammalia" ; Times: 1
+	Query: "Urocyon littoralis" ; Times: 1
+	Query: "plethodon ouchita" ; Times: 1
+	Query: "specificepithet:megalotis genus:otocyon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:138223 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(21.779036,-105.537516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(20.249036,-105.707516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(31.639036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Anacapa AND Mammals AND 1940" ; Times: 2
+	Query: "Anacapa AND Mammals AND 1942" ; Times: 2
+	Query: "catalognumber:104961 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(25.859036,-112.167516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-106.557516))&lt;15000" ; Times: 1
+	Query: "catalognumber:36696 institutioncode:LACM" ; Times: 2
+	Query: "genus:rana stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Tinamus major" ; Times: 2
+	Query: "catalognumber:40673 institutioncode:LACM" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "ucsb" ; Times: 1
+	Query: "specificepithet:rubecula genus:Scelorchilus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "specificepithet:CRASSICAUDA genus:BDEOGALE family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-115.057516))&lt;15000" ; Times: 1
+	Query: "parapriacanthus" ; Times: 1
+	Query: "ATELES" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-112.337516))&lt;15000" ; Times: 1
+	Query: "ANABLEPIDAE" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-107.067516))&lt;15000" ; Times: 1
+	Query: "specificepithet:brevicauda country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "ARHYNCHOBATIDAE" ; Times: 1
+	Query: "charina" ; Times: 1
+	Query: "distance(location,geopoint(28.409036,-112.847516))&lt;15000" ; Times: 1
+	Query: "Gymnorhinus" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-114.377516))&lt;15000" ; Times: 1
+	Query: "lacm mammalia" ; Times: 2
+	Query: "distance(location,geopoint(25.009036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.897516))&lt;15000" ; Times: 2
+	Query: "Penelope purpurascens" ; Times: 17
+	Query: "tropidodipsas" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "natrix" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.827516))&lt;15000" ; Times: 1
+	Query: "Poospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "catalognumber:74085 institutioncode:LACM" ; Times: 2
+	Query: "octopus" ; Times: 1
+	Query: "pteroglossus aracari type:specimen" ; Times: 4
+	Query: "distance(location,geopoint(21.439036,-106.897516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-113.357516))&lt;15000" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.063924198120645,-108.15765380859375))&lt;41580.77121872904" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "mephitis macroura" ; Times: 15
+	Query: "ZANCLIDAE" ; Times: 3
+	Query: "distance(location,geopoint(23.479036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Loricariidae" ; Times: 4
+	Query: "LACM 3735" ; Times: 1
+	Query: "specificepithet:regilla genus:Pseudacris county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Antrozous AND Island AND California" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 5
+	Query: "distance(location,geopoint(23.649036,-110.127516))&lt;15000" ; Times: 2
+	Query: "genus:conepatus (weight)" ; Times: 2
+	Query: "genus:atheris institutioncode:LACM" ; Times: 2
+	Query: "175440" ; Times: 1
+	Query: "Phyllorhynchus decurtatus" ; Times: 1
+	Query: "transitionalis" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-113.357516))&lt;15000" ; Times: 1
+	Query: "sirenidae" ; Times: 1
+	Query: "catalognumber:181578 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(24.839036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Nigeria class:Mammalia" ; Times: 1
+	Query: "genus:Aneides specificepithet:lugubris" ; Times: 4
+	Query: "specificepithet:lugoi genus:Gerrhonotus" ; Times: 1
+	Query: "SAN MIGUEL ISLAND AND Herps AND 1939" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-107.407516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(21.779036,-105.027516))&lt;15000" ; Times: 6
+	Query: "catalognumber:2963 institutioncode:LACM" ; Times: 2
+	Query: "Cnemidophorus sexlineatus texas" ; Times: 2
+	Query: "type:specimen specificepithet:ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-109.277516))&lt;15000" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 5
+	Query: "Thamnophis marcianus Baja California" ; Times: 1
+	Query: "genus:Aneides country:&#34;Mexico&#34;" ; Times: 1
+	Query: "STERNOPYGIDAE" ; Times: 2
+	Query: "catalognumber:148685" ; Times: 1
+	Query: "type:specimen order:lagomorpha county:&#34;Los Angeles&#34; preparations:Skeleton institutioncode:LACM" ; Times: 1
+	Query: "Anolis cupreus (Costa Rica) mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-113.697516))&lt;15000" ; Times: 1
+	Query: "skull genus:Uropelia preparations:skull" ; Times: 1
+	Query: "Pseudotriton montanus" ; Times: 2
+	Query: "catalognumber:181580 institutioncode:LACM" ; Times: 2
+	Query: "Aphelocoma insularis institutioncode:LACM" ; Times: 1
+	Query: "DASYATIDAE" ; Times: 2
+	Query: "CHLOPSIDAE" ; Times: 2
+	Query: "distance(location,geopoint(25.349036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-112.847516))&lt;15000" ; Times: 1
+	Query: "Anolis humilis (Costa Rica) mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(27.049036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Mus cervicolor" ; Times: 1
+	Query: "anolis lionotus" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-109.107516))&lt;15000" ; Times: 1
+	Query: "UCLA 9676" ; Times: 2
+	Query: "UCLA 9675" ; Times: 1
+	Query: "bolitoglossa" ; Times: 1
+	Query: "Green AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "NEMATISTIIDAE" ; Times: 1
+	Query: "San Nicolas Island AND 1922" ; Times: 1
+	Query: "genus:bdeogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Omobranchus punctatus" ; Times: 6
+	Query: "distance(location,geopoint(20.929036,-105.537516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(21.609036,-106.897516))&lt;15000" ; Times: 4
+	Query: "Tana River institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-108.257516))&lt;15000" ; Times: 1
+	Query: "type:specimen order:Rodentia county:&#34;Los Angeles&#34; preparations:Skeleton institutioncode:LACM" ; Times: 2
+	Query: "puma type:specimen" ; Times: 2
+	Query: "distance(location,geopoint(31.129036,-112.337516))&lt;15000" ; Times: 1
+	Query: "10371" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 3
+	Query: "distance(location,geopoint(25.349036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.537516))&lt;15000" ; Times: 3
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Cuba" ; Times: 2
+	Query: "MOLIDAE" ; Times: 3
+	Query: "distance(location,geopoint(27.049036,-110.977516))&lt;15000" ; Times: 1
+	Query: "eublepharis" ; Times: 2
+	Query: "distance(location,geopoint(22.119036,-105.197516))&lt;15000" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "Clelia clelia" ; Times: 2
+	Query: "Oreomanes type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.217516))&lt;15000" ; Times: 1
+	Query: "genus:Hemisus specificepithet:guineensis" ; Times: 1
+	Query: "genus:Salvadora stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "clemmys guttata" ; Times: 24
+	Query: "O. Howard AND San Clemente" ; Times: 1
+	Query: "Crotalus lepidus chihuahua" ; Times: 1
+	Query: "recurvirostra" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "specificepithet:sonneratii genus:Gallus" ; Times: 2
+	Query: "skull genus:Reinwardtoena preparations:skull" ; Times: 1
+	Query: "Pachyramphus validus" ; Times: 1
+	Query: "mammalia durango" ; Times: 2
+	Query: "sterna paradisaea" ; Times: 1
+	Query: "COTTIDAE" ; Times: 5
+	Query: "distance(location,geopoint(32.149036,-113.867516))&lt;15000" ; Times: 1
+	Query: "PSEUDOCARCHARIIDAE" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 2
+	Query: "Tamias amoenus" ; Times: 1
+	Query: "catalognumber:77732 institutioncode:LACM" ; Times: 3
+	Query: "Contia tenuis" ; Times: 5
+	Query: "LABRISOMIDAE" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 3
+	Query: "distance(location,geopoint(20.589036,-105.367516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(25.519036,-111.147516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.557516))&lt;15000" ; Times: 1
+	Query: "CSL 9485" ; Times: 3
+	Query: "specificepithet:civetta genus:civettictis order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 4
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "blarinomys breviceps" ; Times: 1
+	Query: "Anniella geronimensis" ; Times: 1
+	Query: "Onychomys torridus county:&#34;Imperial&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "Masticophis bilineatus Sinaloa" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-108.427516))&lt;15000" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "negaprion fronto" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-109.277516))&lt;15000" ; Times: 1
+	Query: "Hippoglossina" ; Times: 2
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "type:specimen genus:bassariscus mappable:1" ; Times: 4
+	Query: "locality:Berkeley campus" ; Times: 2
+	Query: "genus:Pimelodella country:&#34;Panama&#34;" ; Times: 2
+	Query: "Sphiggurus" ; Times: 1
+	Query: "lacm Octodon" ; Times: 1
+	Query: "lacm Geocapromys" ; Times: 1
+	Query: "Martes caurina" ; Times: 1
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "antennarius avalonis" ; Times: 1
+	Query: "sphenomorphus cherriei" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; (triangulum)" ; Times: 1
+	Query: "type:specimen specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.957516))&lt;15000" ; Times: 2
+	Query: "clamator jacobinus" ; Times: 1
+	Query: "catalognumber:52572 institutioncode:LACM" ; Times: 2
+	Query: "witch" ; Times: 19
+	Query: "imantodes" ; Times: 1
+	Query: "PRIMATES" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "catalognumber:70266 institutioncode:LACM" ; Times: 2
+	Query: "specificepithet:JUBATUS genus:ACINONYX family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1890 year &lt;= 1900 mappable:1" ; Times: 1
+	Query: "Cockrum" ; Times: 1
+	Query: "Dipodomys californicus" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-112.167516))&lt;15000" ; Times: 2
+	Query: "mammals of the new mexico" ; Times: 1
+	Query: "genus:FELIS family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "distance(location,geopoint(21.269036,-106.557516))&lt;15000" ; Times: 3
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "corydoras" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "Tumbezia salvini" ; Times: 1
+	Query: "lacm paca" ; Times: 1
+	Query: "Spilogale AND Island" ; Times: 1
+	Query: "EPIGONIDAE" ; Times: 1
+	Query: "mammals texas" ; Times: 2
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "bothriechis" ; Times: 1
+	Query: "angeli" ; Times: 1
+	Query: "MVZ 4127" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.557516))&lt;15000" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 4
+	Query: "distance(location,geopoint(31.809036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-110.297516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.309036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-107.577516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:ara (militaris)" ; Times: 1
+	Query: "Lakeside county:&#34;san diego&#34;" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx county:&#34;Cochise&#34;" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-106.217516))&lt;15000" ; Times: 3
+	Query: "thamnophis cyrtopsis" ; Times: 4
+	Query: "distance(location,geopoint(30.959036,-114.717516))&lt;15000" ; Times: 1
+	Query: "Quiscalus quiscula versicolor (skin)" ; Times: 2
+	Query: "Calochaetes type:specimen institutioncode:LACM" ; Times: 1
+	Query: "kinixys homeana" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.197516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(30.959036,-110.807516))&lt;15000" ; Times: 1
+	Query: "anotheca" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "thomomys bottae" ; Times: 1
+	Query: "specificepithet:ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:MACULATA genus:GENETTA family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.237516))&lt;15000" ; Times: 1
+	Query: "Coryphospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "pachyramphus polychopterus spixii" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-107.407516))&lt;15000" ; Times: 1
+	Query: "specificepithet:triseriatus genus:crotalus institutioncode:LACM" ; Times: 2
+	Query: "(Crotalus willardi)" ; Times: 1
+	Query: "mastigodryas dorsalis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "LACM 22410" ; Times: 1
+	Query: "pelecanus onocrotalus" ; Times: 3
+	Query: "Vliet" ; Times: 1
+	Query: "Gerrhosaurus" ; Times: 5
+	Query: "Nyctomys" ; Times: 3
+	Query: "distance(location,geopoint(23.309036,-109.277516))&lt;15000" ; Times: 1
+	Query: "Diglossa baritula LACM Birds 108129" ; Times: 1
+	Query: "Glyphorhynchus pectoralis" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Uta county:&#34;fresno&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-106.217516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(21.949036,-110.127516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(31.299036,-109.107516))&lt;15000" ; Times: 2
+	Query: "senticolis stateprovince:&#34;arizona&#34;" ; Times: 3
+	Query: "Amblyodipsas concolor" ; Times: 1
+	Query: "Crotalus pricei chihuahua" ; Times: 2
+	Query: "catalognumber:104987 institutioncode:LACM" ; Times: 4
+	Query: "usnm red sea actinopterygii" ; Times: 1
+	Query: "Pachyramphus polychopterus spixii" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-114.887516))&lt;15000" ; Times: 1
+	Query: "ptychohyla" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.617516))&lt;15000" ; Times: 1
+	Query: "UCLA 9644" ; Times: 2
+	Query: "Catagonus wagneri country:&#34;paraguay&#34; year &gt;= 1976 year &lt;= 1978" ; Times: 1
+	Query: "skin type:specimen specificepithet:spiza genus:Chlorophanes sex:male institutioncode:LACM" ; Times: 1
+	Query: "Green AND San Miguel Island" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-106.387516))&lt;15000" ; Times: 1
+	Query: "genus:Phylloscartes class:Aves stateprovince:&#34;RIO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-108.937516))&lt;15000" ; Times: 1
+	Query: "plectrohyla hartwegi" ; Times: 1
+	Query: "catalognumber:114662 institutioncode:LACM" ; Times: 4
+	Query: "11650" ; Times: 3
+	Query: "Cnemoscopus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "catalognumber:104238" ; Times: 1
+	Query: "LACM 031166" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Balaenoptera" ; Times: 1
+	Query: "57321" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-107.067516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(31.129036,-105.707516))&lt;15000" ; Times: 1
+	Query: "Suidae" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-115.057516))&lt;15000" ; Times: 1
+	Query: "Anolis intermedius mappable:1" ; Times: 1
+	Query: "Otters" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.919036,-112.507516))&lt;15000" ; Times: 1
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 3
+	Query: "Santa Rosa Island AND Canis" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 2
+	Query: "distance(location,geopoint(20.929036,-105.707516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(31.639036,-105.197516))&lt;15000" ; Times: 1
+	Query: "pyrrhura lepida" ; Times: 10
+	Query: "distance(location,geopoint(22.799036,-105.877516))&lt;15000" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana institutioncode:LACM" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "CHAENOPSIDAE" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.357516))&lt;15000" ; Times: 1
+	Query: "catalognumber:134027 institutioncode:LACM" ; Times: 2
+	Query: "pitta brachyura" ; Times: 1
+	Query: "Thlypopsis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "type:specimen country:&#34;Peru&#34; tissue:1" ; Times: 1
+	Query: "Plestiodon latiscutatus" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.03629817885956,-107.99285888671875))&lt;53883.81173840946" ; Times: 1
+	Query: "163822" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-114.887516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-105.877516))&lt;15000" ; Times: 6
+	Query: "hoogmoed" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "NARCINIDAE" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.994003757575776,-82.81494140625))&lt;38386" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.877516))&lt;15000" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "beetle" ; Times: 1
+	Query: "HEMISCYLLIIDAE" ; Times: 1
+	Query: "Tamiasciurus douglasii" ; Times: 4
+	Query: "14199" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.547516))&lt;15000" ; Times: 1
+	Query: "hemidactylus turcicus" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-112.507516))&lt;15000" ; Times: 1
+	Query: "Geospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "gallinula chloropus (kenya)" ; Times: 1
+	Query: "Leptonycteris nivalis (Chiapas)" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.597516))&lt;15000" ; Times: 1
+	Query: "michigan year &gt;= 1912 year &lt;= 1928" ; Times: 2
+	Query: "distance(location,geopoint(22.629036,-105.707516))&lt;15000" ; Times: 1
+	Query: "Pipraeidea type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Emberizoides type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Plethodon metcalfi mappable:1" ; Times: 1
+	Query: "(orca)" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-106.387516))&lt;15000" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "specificepithet:CIVETTA genus:CIVETTICTIS family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (punctatus)" ; Times: 2
+	Query: "reithrodontomys megalotis megalotis" ; Times: 1
+	Query: "108467" ; Times: 1
+	Query: "type:specimen order:lagomorpha county:&#34;Los Angeles&#34; preparations:SKULL institutioncode:LACM" ; Times: 1
+	Query: "skull genus:oena preparations:skull" ; Times: 1
+	Query: "specificepithet:talamancae order:rodentia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(8.754794702435605,-87.451171875))&lt;1279526" ; Times: 1
+	Query: "bothriechis nigroviridis" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(12.039320557540586,-86.396486375))&lt;1279526.3944158978" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia (weight)" ; Times: 4
+	Query: "distance(location,geopoint(22.799036,-109.277516))&lt;15000" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "Dipsosaurus dorsalis Sinaloa" ; Times: 1
+	Query: "184396" ; Times: 1
+	Query: "1900 Jackson" ; Times: 1
+	Query: "usnm red sea" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.617516))&lt;15000" ; Times: 1
+	Query: "zoothera dauma india" ; Times: 1
+	Query: "specificepithet:mutica genus:Apalone" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "class:aves catalognumber:22127" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-108.087516))&lt;15000" ; Times: 1
+	Query: "Crotalus ravus" ; Times: 2
+	Query: "distance(location,geopoint(25.009036,-110.637516))&lt;15000" ; Times: 1
+	Query: "161142" ; Times: 1
+	Query: "herps type:specimen recordedby:Wake year &gt;= 1970 year &lt;= 2016 institutioncode:LACM" ; Times: 1
+	Query: "Catamenia type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "class:Amphibia county:&#34;Morgan&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.217516))&lt;15000" ; Times: 1
+	Query: "Cnemidophorus lemniscatus" ; Times: 4
+	Query: "PRISTIGASTERIDAE" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.197516))&lt;15000" ; Times: 1
+	Query: "specificepithet:brevicauda genus:zygodontomys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.127516))&lt;15000" ; Times: 2
+	Query: "Howell AND 1913" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.707516))&lt;15000" ; Times: 1
+	Query: "Coereba type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "lacm ctenomyidae" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.467516))&lt;15000" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Kinixys" ; Times: 2
+	Query: "crotalus pricei" ; Times: 2
+	Query: "bufo punctatus sinaloa" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.617516))&lt;15000" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Camarhynchus type:specimen institutioncode:LACM" ; Times: 1
+	Query: "catalognumber:104989 institutioncode:LACM" ; Times: 2
+	Query: "Starnoenas" ; Times: 1
+	Query: "melidora" ; Times: 1
+	Query: "griselda" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "specificepithet:jubatus genus:acinonyx family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "salvadora" ; Times: 2
+	Query: "distance(location,geopoint(22.119036,-111.147516))&lt;15000" ; Times: 3
+	Query: "stateprovince:&#34;Utah&#34; (charina)" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-107.407516))&lt;15000" ; Times: 3
+	Query: "LACM Herps 579" ; Times: 1
+	Query: "Agelaius phoeniceus brownsville" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "phoenicopterus" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-106.387516))&lt;15000" ; Times: 3
+	Query: "catalognumber:20006 institutioncode:LACM" ; Times: 1
+	Query: "Rangifer tarandus caribou Ontario 1" ; Times: 6
+	Query: "distance(location,geopoint(23.649036,-109.447516))&lt;15000" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Elgaria AND Santa Rosa Island" ; Times: 1
+	Query: "Anolis microlepidotus" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-107.067516))&lt;15000" ; Times: 4
+	Query: "ohio state university" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-109.787516))&lt;15000" ; Times: 2
+	Query: "94446 LACM" ; Times: 1
+	Query: "San Nicolas Island AND Herps" ; Times: 2
+	Query: "Minatitlan" ; Times: 2
+	Query: "distance(location,geopoint(24.329036,-106.727516))&lt;15000" ; Times: 1
+	Query: "Cruise 13 1964" ; Times: 2
+	Query: "distance(location,geopoint(24.329036,-107.067516))&lt;15000" ; Times: 1
+	Query: "Starnoenas cyanocephala" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Anacapa NOT Fish" ; Times: 2
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "catagonus wagneri" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-109.957516))&lt;15000" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;dona ana&#34; stateprovince:&#34;New mexico&#34; year &gt;= 1967 year &lt;= 1969" ; Times: 3
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "Rhynchopsitta United" ; Times: 1
+	Query: "Anacapa AND Herps AND 190" ; Times: 1
+	Query: "class:Reptilia county:&#34;dona ana&#34; stateprovince:&#34;New mexico&#34; year &gt;= 1968 year &lt;= 1968" ; Times: 1
+	Query: "distance(location,geopoint(27.559036,-111.827516))&lt;15000" ; Times: 1
+	Query: "Howell AND San Clemente Island" ; Times: 1
+	Query: "Iridosornis reinhardti" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "coleonyx" ; Times: 2
+	Query: "San Nicolas Island AND 1940" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-105.367516))&lt;15000" ; Times: 2
+	Query: "SOMNIOSIDAE" ; Times: 2
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Viverridae" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-112.507516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.349036,-112.847516))&lt;15000" ; Times: 1
+	Query: "primates" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.277516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(23.479036,-105.367516))&lt;15000" ; Times: 1
+	Query: "family:phyllostomidae order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Dacnis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "bison" ; Times: 2
+	Query: "euscarthmus meloryphus" ; Times: 7
+	Query: "specificepithet:aureus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 2
+	Query: "Anolis humilis (mexico) mappable:1" ; Times: 2
+	Query: "myrmotherula surinamensis type:specimen" ; Times: 1
+	Query: "drymarchon" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-114.547516))&lt;15000" ; Times: 1
+	Query: "Cruise 13" ; Times: 1
+	Query: "genus:Rana specificepithet:virgatipes" ; Times: 1
+	Query: "Wright AND Santa Barbara Island" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-106.557516))&lt;15000" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "catalognumber:66942 institutioncode:LACM" ; Times: 4
+	Query: "Crypturellus undulatus undulatus" ; Times: 1
+	Query: "distance(location,geopoint(21.269036,-106.217516))&lt;15000" ; Times: 4
+	Query: "catalognumber:2972 institutioncode:LACM" ; Times: 2
+	Query: "bothriechis schlegelii" ; Times: 1
+	Query: "Wright AND Santa Catalina Island" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-107.407516))&lt;15000" ; Times: 3
+	Query: "puma" ; Times: 2
+	Query: "distance(location,geopoint(27.729036,-114.887516))&lt;15000" ; Times: 1
+	Query: "Eucometis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "skin type:specimen specificepithet:chloricterus genus:Orthogonys sex:male" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "heteromys" ; Times: 2
+	Query: "distance(location,geopoint(23.309036,-109.617516))&lt;15000" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;zacatecas&#34;" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-108.597516))&lt;15000" ; Times: 1
+	Query: "pelamis" ; Times: 1
+	Query: "Crax rubra" ; Times: 9
+	Query: "type:specimen genus:Psittacus (timneh)" ; Times: 2
+	Query: "Parabuteo" ; Times: 1
+	Query: "Rhinocheilus lecontei Sinaloa" ; Times: 3
+	Query: "skull genus:Gymnophaps preparations:skull" ; Times: 1
+	Query: "gbifdatasetid:7a25f7aa-03fb-4322-aaeb-66719e1a9527" ; Times: 9
+	Query: "Varanus griseus" ; Times: 2
+	Query: "Falco peregrinus AND Catalina" ; Times: 1
+	Query: "specificepithet:schlegelii genus:Bothriechis family:Viperidae" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (lepidus)" ; Times: 1
+	Query: "family:leptotyphlopidae stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:31146 institutioncode:LACM" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 1
+	Query: "Emys marmorata" ; Times: 1
+	Query: "Ambystoma rosaceum chihuahua" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-107.747516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-106.217516))&lt;15000" ; Times: 4
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "aplodontia" ; Times: 1
+	Query: "pyromelana" ; Times: 5
+	Query: "distance(location,geopoint(20.929036,-111.997516))&lt;15000" ; Times: 3
+	Query: "Kanakoff AND Xantusia" ; Times: 1
+	Query: "Abell AND Island" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 2
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "calothorax" ; Times: 4
+	Query: "distance(location,geopoint(23.139036,-110.127516))&lt;15000" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 2
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.577516))&lt;15000" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Dendroica month &gt;= 1 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "Tiaris type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "family:Picidae preparations:skull" ; Times: 4
+	Query: "Cruise 13 1964 Atlantis" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 2
+	Query: "c. porosus" ; Times: 1
+	Query: "distance(location,geopoint(22.119036,-110.297516))&lt;15000" ; Times: 3
+	Query: "Rhipidura albicollis orissae" ; Times: 1
+	Query: "genus:civettictis order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "stilosoma" ; Times: 3
+	Query: "distance(location,geopoint(31.639036,-112.167516))&lt;15000" ; Times: 1
+	Query: "Nicator" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "6582 LACM" ; Times: 1
+	Query: "distance(location,geopoint(30.449036,-114.717516))&lt;15000" ; Times: 1
+	Query: "Otus" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.317516))&lt;15000" ; Times: 1
+	Query: "Tylosurus" ; Times: 3
+	Query: "stateprovince:&#34;Arizona&#34; (trivirgata)" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.487516))&lt;15000" ; Times: 2
+	Query: "Birds 103433" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "distance(location,geopoint(23.309036,-109.107516))&lt;15000" ; Times: 2
+	Query: "skull genus:henicophaps preparations:skull" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "CAPROIDAE" ; Times: 2
+	Query: "conchas dam" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-107.577516))&lt;15000" ; Times: 3
+	Query: "(castor canadensis)" ; Times: 1
+	Query: "specificepithet:durissus genus:crotalus institutioncode:LACM" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-109.447516))&lt;15000" ; Times: 1
+	Query: "frogs institutioncode:LACM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes Alaska" ; Times: 1
+	Query: "specificepithet:simus genus:heterodon" ; Times: 4
+	Query: "promops centralis" ; Times: 2
+	Query: "catalognumber:2971 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.937516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-107.577516))&lt;15000" ; Times: 1
+	Query: "Piezorhina type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Anolis cupreus mappable:1" ; Times: 3
+	Query: "Cypsnagra type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "erinaceidae" ; Times: 1
+	Query: "county:&#34;Ventura&#34; stateprovince:&#34;California&#34; (Polioptila)" ; Times: 1
+	Query: "genus:Leptotyphlops stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:CAS OR institutioncode:LACM" ; Times: 1
+	Query: "catalognumber:77731 institutioncode:LACM" ; Times: 3
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "genus:Columba preparations:Skull institutioncode:LACM" ; Times: 1
+	Query: "goudotii" ; Times: 1
+	Query: "heterodon Pima county" ; Times: 1
+	Query: "O. Howard AND Anacapa" ; Times: 1
+	Query: "Spilogale AND Island NOT Oak" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "Norops" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-105.197516))&lt;15000" ; Times: 5
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5 mappable:1" ; Times: 2
+	Query: "puma concolor type:specimen institutioncode:LACM" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "glaucidium tephronotum" ; Times: 1
+	Query: "catalognumber:84041 institutioncode:LACM" ; Times: 2
+	Query: "lacm thryonomys" ; Times: 1
+	Query: "Conirostrum type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34; (San Juan OR Playa)" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-113.017516))&lt;15000" ; Times: 1
+	Query: "county:&#34;Perry&#34; stateprovince:&#34;Mississippi&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:cristata genus:proteles order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;California&#34; year &gt;= 2015 year &lt;= 2016" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-108.257516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.127516))&lt;15000" ; Times: 1
+	Query: "catalognumber:43025 institutioncode:LACM" ; Times: 1
+	Query: "dasyatis americana" ; Times: 2
+	Query: "Myotis AND &#34;Santa Cruz Island&#34;" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Meizodon semiornatus" ; Times: 1
+	Query: "distance(location,geopoint(21.269036,-106.727516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(23.819036,-109.957516))&lt;15000" ; Times: 1
+	Query: "pyrrhura frontalis" ; Times: 5
+	Query: "turdoides malcolmi" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora stateprovince:&#34;California&#34; institutioncode:LACM" ; Times: 1
+	Query: "PILOSA" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-111.827516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.929036,-105.367516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(32.149036,-113.527516))&lt;15000" ; Times: 2
+	Query: "mammals of mexico" ; Times: 1
+	Query: "catalognumber:134053 institutioncode:LACM" ; Times: 2
+	Query: "sphiggurus" ; Times: 4
+	Query: "micrurus browni" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.047516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.107516))&lt;15000" ; Times: 1
+	Query: "lacm hystricognathi" ; Times: 1
+	Query: "Crotalus lepidus klauberi chihuahua" ; Times: 2
+	Query: "coendou" ; Times: 8
+	Query: "herps type:specimen recordedby:Wake institutioncode:LACM" ; Times: 4
+	Query: "phrynosoma el dorado county" ; Times: 1
+	Query: "Ichthyomyzon unicuspis Ontario" ; Times: 10
+	Query: "Aplodontia" ; Times: 1
+	Query: "Anacapa AND Herps AND 1941" ; Times: 2
+	Query: "Anacapa AND Herps AND 1940" ; Times: 2
+	Query: "Charina trivirgata type:specimen" ; Times: 1
+	Query: "myiarchus tuberculifer" ; Times: 3
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.357516))&lt;15000" ; Times: 1
+	Query: "catalognumber:20000 institutioncode:LACM" ; Times: 2
+	Query: "Accipiter striatus perobscurus" ; Times: 1
+	Query: "lacm octodon" ; Times: 2
+	Query: "4890" ; Times: 2
+	Query: "distance(location,geopoint(21.099036,-105.367516))&lt;15000" ; Times: 5
+	Query: "tamias amoenus" ; Times: 1
+	Query: "Leptosittaca branickii" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-105.707516))&lt;15000" ; Times: 1
+	Query: "graueria" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 8
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "glaucidium brodiei" ; Times: 1
+	Query: "Paroaria type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "catalognumber:122473 institutioncode:LACM" ; Times: 2
+	Query: "ETMOPTERIDAE" ; Times: 1
+	Query: "mosquito specimen" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:LACM" ; Times: 2
+	Query: "Pseudemys institutioncode:LACM tissue:1" ; Times: 1
+	Query: "sarkidiornis skeleton" ; Times: 5
+	Query: "charina bottae" ; Times: 1
+	Query: "glossophaga soricina" ; Times: 4
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "distance(location,geopoint(22.119036,-109.957516))&lt;15000" ; Times: 4
+	Query: "lynx canadensis" ; Times: 1
+	Query: "genus:liomys country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Contia tenuis LACM" ; Times: 1
+	Query: "thailand" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.487516))&lt;15000" ; Times: 1
+	Query: "skull family:Picidae preparations:skull institutioncode:LACM" ; Times: 2
+	Query: "HEMIRAMPHIDAE" ; Times: 2
+	Query: "klauberi san diego county" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.027516))&lt;15000" ; Times: 6
+	Query: "Poicephalus" ; Times: 1
+	Query: "Urocyon AND Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-105.537516))&lt;15000" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "specificepithet:nasicornis genus:bitis institutioncode:LACM" ; Times: 1
+	Query: "dicamptodon" ; Times: 1
+	Query: "yellowstone" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-108.767516))&lt;15000" ; Times: 4
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "lacm dasyprocta" ; Times: 1
+	Query: "distance(location,geopoint(20.929036,-105.877516))&lt;15000" ; Times: 4
+	Query: "Anolis humilis AND (Mexico) mappable:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-109.447516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(25.689036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-111.827516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(21.439036,-106.727516))&lt;15000" ; Times: 3
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "specificepithet:cognatus genus:bufo stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Anolis intermedius mappable:1 distance(location,geopoint(9.665738395188692,-82.33154296875))&lt;305822.88639677287" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-112.507516))&lt;15000" ; Times: 1
+	Query: "Artiodactyla" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.617516))&lt;15000" ; Times: 1
+	Query: "MOBULIDAE" ; Times: 1
+	Query: "Salvadora hexalepis sinaloa" ; Times: 1
+	Query: "Farancia" ; Times: 1
+	Query: "179835" ; Times: 1
+	Query: "179836" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1880 year &lt;= 1890 mappable:1" ; Times: 1
+	Query: "Crotalus viridis Apache Arizona" ; Times: 4
+	Query: "(Hemidactylus turcicus)" ; Times: 1
+	Query: "myiobius atricaudus" ; Times: 3
+	Query: "distance(location,geopoint(24.669036,-111.997516))&lt;15000" ; Times: 2
+	Query: "Dubusia type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "ANACAPA AND MAMMALS AND 1940" ; Times: 1
+	Query: "ANACAPA AND MAMMALS AND 1942" ; Times: 1
+	Query: "turdus unicolor india" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-106.047516))&lt;15000" ; Times: 2
+	Query: "Tersina type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.957516))&lt;15000" ; Times: 2
+	Query: "67524" ; Times: 3
+	Query: "Centrolene" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-108.087516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.919036,-113.187516))&lt;15000" ; Times: 1
+	Query: "lacm echimyidae" ; Times: 2
+	Query: "dipodomys deserti" ; Times: 6
+	Query: "crotalus adamanteus" ; Times: 2
+	Query: "heterodon simus" ; Times: 1
+	Query: "Scincidae sex:female" ; Times: 3
+	Query: "mammals of new mexico" ; Times: 39
+	Query: "Leptonycteris (Chiapas)" ; Times: 7
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.727516))&lt;15000" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Gymnotus gymnotus" ; Times: 1
+	Query: "Green AND Santa Cruz Island" ; Times: 2
+	Query: "iguana type:specimen genus:iguana mappable:1 tissue:1" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 2
+	Query: "specificepithet:braminus genus:typhlops family:Typhlopidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "dinodon" ; Times: 1
+	Query: "hydromantes brunus" ; Times: 7
+	Query: "distance(location,geopoint(31.639036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Anacapa AND 1876" ; Times: 3
+	Query: "Alouatta palliata" ; Times: 17
+	Query: "Lichanura Yuma county" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.067516))&lt;15000" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "ornithion" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 2
+	Query: "catalognumber:104960 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(27.219036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.407516))&lt;15000" ; Times: 1
+	Query: "SCOPHTHALMIDAE" ; Times: 2
+	Query: "distance(location,geopoint(25.179036,-110.807516))&lt;15000" ; Times: 1
+	Query: "catalognumber:181579 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-108.427516))&lt;15000" ; Times: 1
+	Query: "Felis AND Island" ; Times: 1
+	Query: "Mabuya unimarginata" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.317516))&lt;15000" ; Times: 1
+	Query: "wislizenii" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.387516))&lt;15000" ; Times: 1
+	Query: "specificepithet:ichneumon genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Embernagra type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-108.257516))&lt;15000" ; Times: 1
+	Query: "lacm" ; Times: 1
+	Query: "distance(location,geopoint(21.269036,-106.387516))&lt;15000" ; Times: 3
+	Query: "specificepithet:parvula genus:Helogale family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Chionactis locality:San Felipe stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-114.377516))&lt;15000" ; Times: 1
+	Query: "sclerurus scansor" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-111.317516))&lt;15000" ; Times: 3
+	Query: "catalognumber:2974 institutioncode:LACM" ; Times: 2
+	Query: "genus:dasypus class:mammalia" ; Times: 1
+	Query: "Riparia riparia" ; Times: 2
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "skull genus:Ectopistes preparations:skull" ; Times: 2
+	Query: "inia" ; Times: 2
+	Query: "micrurus" ; Times: 3
+	Query: "distance(location,geopoint(23.819036,-105.197516))&lt;15000" ; Times: 1
+	Query: "Catagonus wagneri country:&#34;paraguay&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.427516))&lt;15000" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 2
+	Query: "lacm bathyergidae" ; Times: 1
+	Query: "specificepithet:capensis genus:mellivora order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 8
+	Query: "distance(location,geopoint(32.149036,-111.147516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(20.589036,-112.337516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(21.609036,-113.867516))&lt;15000" ; Times: 5
+	Query: "Empidonax traillii extimus" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-109.277516))&lt;15000" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 2
+	Query: "lioglossina" ; Times: 1
+	Query: "socorro" ; Times: 1
+	Query: "type:specimen genus:Passer institutioncode:LACM" ; Times: 2
+	Query: "catalognumber:113694 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-109.787516))&lt;15000" ; Times: 1
+	Query: "catalognumber:70262 institutioncode:LACM" ; Times: 4
+	Query: "panthera onca" ; Times: 5
+	Query: "skin type:specimen specificepithet:speculiferus genus:Nesospingus sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-112.167516))&lt;15000" ; Times: 1
+	Query: "coahuila mammals" ; Times: 1
+	Query: "Macrotus" ; Times: 3
+	Query: "distance(location,geopoint(23.479036,-109.447516))&lt;15000" ; Times: 1
+	Query: "country:&#34;mexico&#34; catalognumber:45023" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.637516))&lt;15000" ; Times: 1
+	Query: "ONTARIO 1" ; Times: 16
+	Query: "kinixys" ; Times: 4
+	Query: "CINGULATA" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-107.407516))&lt;15000" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "APTERONOTIDAE" ; Times: 1
+	Query: "senticolis triaspis" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "melanosuchus niger" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-105.027516))&lt;15000" ; Times: 1
+	Query: "catalognumber:84036 institutioncode:LACM" ; Times: 4
+	Query: "CYNOGLOSSIDAE" ; Times: 2
+	Query: "distance(location,geopoint(24.669036,-111.827516))&lt;15000" ; Times: 1
+	Query: "Antrozous AND Island" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "dinodon rufozonatum" ; Times: 1
+	Query: "plethodon welleri AND (NOT virginia) mappable:1" ; Times: 1
+	Query: "pnoepyga albiventer" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.487516))&lt;15000" ; Times: 1
+	Query: "Lamprospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "genus:Ursus stateprovince:(california OR florida)" ; Times: 80
+	Query: "riparia riparia" ; Times: 1
+	Query: "Certhidea type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Hemispingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "type:specimen specificepithet:albiventer genus:Tachycineta" ; Times: 1
+	Query: "Dendrortyx barbatus" ; Times: 2
+	Query: "Reithrodontomys megalotis megalotis county:&#34;San Diego&#34;" ; Times: 1
+	Query: "UAZ" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.767516))&lt;15000" ; Times: 1
+	Query: "Myrmeciza longipes" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.877516))&lt;15000" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Phrynosoma solare Sinaloa" ; Times: 3
+	Query: "Urosaurus graciosus baja California" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-107.747516))&lt;15000" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "catalognumber:20027 institutioncode:LACM" ; Times: 3
+	Query: "lampropeltis triangulum country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "genus:necturus" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-108.767516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(23.989036,-106.217516))&lt;15000" ; Times: 1
+	Query: "Typhlops punctatus locality:Budongo country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-113.187516))&lt;15000" ; Times: 1
+	Query: "batrachoseps gregarius distance(location,geopoint(37.932644864836384,-119.53125))&lt;338168.77567465545" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "Anolis cupreus (Honduras) mappable:1" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 1
+	Query: "Phyllobates aurotaenia country:&#34;Colombia&#34;" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "family:molossidae order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "distance(location,geopoint(29.429036,-109.277516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-105.877516))&lt;15000" ; Times: 1
+	Query: "Lucania parva" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Crotalus AND Catalina Island AND California NOT Mexico" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 3
+	Query: "israel" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 3
+	Query: "Semnornis ramphastinus" ; Times: 1
+	Query: "catalognumber:63647 institutioncode:LACM" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "dipodomys merriami tucson" ; Times: 1
+	Query: "specificepithet:fulvescens order:rodentia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Howard AND Santa Rosa Island" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-106.557516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(23.479036,-109.787516))&lt;15000" ; Times: 1
+	Query: "loysburg pennsylvania" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:fuscus" ; Times: 1
+	Query: "Omobranchus" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "Aepypodius arfakianus" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-107.917516))&lt;15000" ; Times: 2
+	Query: "Buteo lineatus Ontario" ; Times: 10
+	Query: "vandenberg air force base" ; Times: 1
+	Query: "birds from Europe" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.297516))&lt;15000" ; Times: 2
+	Query: "Synthliboramphus AND Island" ; Times: 1
+	Query: "lacm Petromuridae" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "dimidiata" ; Times: 2
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "siren" ; Times: 4
+	Query: "Synallaxis hellmayri" ; Times: 1
+	Query: "distance(location,geopoint(27.389036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Myiornis auricularis" ; Times: 2
+	Query: "Crotalus viridis Navajo Arizona" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-108.427516))&lt;15000" ; Times: 1
+	Query: "nectarinia fuelleborni" ; Times: 4
+	Query: "Callospermophilus lateralis" ; Times: 7
+	Query: "distance(location,geopoint(22.969036,-108.087516))&lt;15000" ; Times: 1
+	Query: "myiobius atricaudus institutioncode:LACM" ; Times: 1
+	Query: "eurycea tonkawae" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 2
+	Query: "specificepithet:jacksoni genus:bdeogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "pelamis platurus costa rica" ; Times: 1
+	Query: "sula granti" ; Times: 1
+	Query: "Philydor lichtensteini" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-114.547516))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:melanops genus:Trichothraupis sex:male (skin) institutioncode:LACM" ; Times: 1
+	Query: "Dundee Falls" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-111.657516))&lt;15000" ; Times: 1
+	Query: "Paratelmatobius" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.937516))&lt;15000" ; Times: 1
+	Query: "coregonus" ; Times: 1
+	Query: "distance(location,geopoint(28.069036,-108.427516))&lt;15000" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "mammals jalisco" ; Times: 5
+	Query: "distance(location,geopoint(23.309036,-108.767516))&lt;15000" ; Times: 1
+	Query: "Dicamptodon ensatus Lake County" ; Times: 1
+	Query: "Anacapa AND 1867" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 2
+	Query: "specificepithet:discolor genus:dendroica month &gt;= 3 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.537516))&lt;15000" ; Times: 2
+	Query: "Grinnell AND Peromyscus AND Island" ; Times: 1
+	Query: "scotinomys teguina" ; Times: 1
+	Query: "distance(location,geopoint(29.769036,-112.677516))&lt;15000" ; Times: 1
+	Query: "class:Reptilia county:&#34;deschutes&#34; stateprovince:&#34;oregon&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.197516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(25.859036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-115.057516))&lt;15000" ; Times: 1
+	Query: "Howell AND 000814" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "Dionda diaboli" ; Times: 1
+	Query: "Pachyramphus polychopterus spixii brazil" ; Times: 1
+	Query: "ATHERINOPSIDAE" ; Times: 3
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(29.429036,-114.207516))&lt;15000" ; Times: 1
+	Query: "Masticophis flagellum" ; Times: 8
+	Query: "sorex palustris" ; Times: 2
+	Query: "Odocoileus" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.257516))&lt;15000" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "LACM AND Anacapa AND Mammals" ; Times: 1
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "distance(location,geopoint(22.119036,-111.317516))&lt;15000" ; Times: 3
+	Query: "class:Reptilia county:&#34;deschutes&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "catalognumber:181600 institutioncode:LACM" ; Times: 2
+	Query: "type:specimen order:rodentia county:&#34;los angeles&#34; preparations:skeleton institutioncode:LACM" ; Times: 3
+	Query: "specificepithet:turcicus genus:Hemidactylus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Oryzoborus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "chalcides ocellatus" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "stateprovince:&#34;boyaca&#34; country:&#34;colombia&#34;" ; Times: 3
+	Query: "Santa Cruz Island 1920 type:specimen" ; Times: 2
+	Query: "heteromys anomalus" ; Times: 1
+	Query: "Cheilodactylus variegatus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 2
+	Query: "distance(location,geopoint(20.589036,-111.827516))&lt;15000" ; Times: 3
+	Query: "specificepithet:PARDUS genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Crotalus Apache Arizona" ; Times: 1
+	Query: "class:Reptilia county:&#34;dona ana&#34; stateprovince:&#34;New mexico&#34; (blake)" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; (pyromelana)" ; Times: 1
+	Query: "RHINOPTERIDAE" ; Times: 1
+	Query: "Herpestes" ; Times: 10
+	Query: "distance(location,geopoint(23.649036,-105.707516))&lt;15000" ; Times: 1
+	Query: "pelecanus onocrotalus (africa)" ; Times: 1
+	Query: "pachyramphus aglaiae costa rica" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-106.727516))&lt;15000" ; Times: 4
+	Query: "Anolis limifrons" ; Times: 2
+	Query: "lichtensteini" ; Times: 2
+	Query: "ASPREDINIDAE" ; Times: 1
+	Query: "Cebidae" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "thamnophis eques" ; Times: 2
+	Query: "lacm Rodentia" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.197516))&lt;15000" ; Times: 6
+	Query: "catalognumber:134030 institutioncode:LACM" ; Times: 2
+	Query: "Crotalus cerastes year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-109.617516))&lt;15000" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Calliope" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-113.017516))&lt;15000" ; Times: 1
+	Query: "Calliope calliope" ; Times: 1
+	Query: "pituophis lineaticollis" ; Times: 2
+	Query: "distance(location,geopoint(24.329036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-105.537516))&lt;15000" ; Times: 2
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "distance(location,geopoint(27.049036,-111.827516))&lt;15000" ; Times: 1
+	Query: "coccyzus ferrugineus" ; Times: 5
+	Query: "pitfalls" ; Times: 1
+	Query: "rana cascadae" ; Times: 1
+	Query: "phylloscartes eximius" ; Times: 2
+	Query: "Sicalis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "genus:acanthophis institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-108.257516))&lt;15000" ; Times: 1
+	Query: "CCF8D3A4-5887-4BBD-A0B8-6BF0EFE0E5C9" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "scutulatus" ; Times: 1
+	Query: "Sonora semiannulata baja california" ; Times: 1
+	Query: "Camelidae" ; Times: 1
+	Query: "Uromys" ; Times: 1
+	Query: "abudefduf taurus" ; Times: 3
+	Query: "imantodes gemmistratus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 2
+	Query: "Dendroica nigrescens" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.957516))&lt;15000" ; Times: 1
+	Query: "colombia" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-106.897516))&lt;15000" ; Times: 4
+	Query: "Synthliboramphus AND Clemente" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "catalognumber:70269 institutioncode:LACM" ; Times: 2
+	Query: "skin type:specimen specificepithet:rosea genus:Rhodinocichla sex:male institutioncode:LACM" ; Times: 1
+	Query: "Cryptobranchus alleganiensis alleganiensis" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "catalognumber:181624 institutioncode:LACM" ; Times: 2
+	Query: "Melierax gabar" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 3
+	Query: "Plethodon metcalfi" ; Times: 1
+	Query: "LACM 134683" ; Times: 2
+	Query: "Muraena" ; Times: 7
+	Query: "distance(location,geopoint(31.809036,-109.957516))&lt;15000" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "Callisaurus draconoides Sinaloa" ; Times: 2
+	Query: "spea intermontana mono county" ; Times: 1
+	Query: "catalognumber:181583 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(24.499036,-111.657516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-113.357516))&lt;15000" ; Times: 1
+	Query: "ameiva auberi" ; Times: 1
+	Query: "corythaeola cristata" ; Times: 2
+	Query: "distance(location,geopoint(20.759036,-105.197516))&lt;15000" ; Times: 6
+	Query: "Lampropeltis zonata" ; Times: 4
+	Query: "distance(location,geopoint(31.809036,-109.787516))&lt;15000" ; Times: 1
+	Query: "catalognumber:134031 institutioncode:LACM" ; Times: 3
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; (Maria)" ; Times: 1
+	Query: "catalognumber:36527 institutioncode:LACM" ; Times: 2
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "phalacrocorax africanus" ; Times: 2
+	Query: "14798" ; Times: 1
+	Query: "distance(location,geopoint(27.219036,-115.057516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+	Query: "LACM getula Sinaloa" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-111.997516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "cystignathoides" ; Times: 2
+	Query: "distance(location,geopoint(20.419036,-111.317516))&lt;15000" ; Times: 3
+	Query: "specificepithet:caracal genus:caracal family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-105.707516))&lt;15000" ; Times: 1
+	Query: "Pituophis melanoleucus Sinaloa" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "specificepithet:mitchelli genus:Crotalus" ; Times: 1
+	Query: "Astyanax" ; Times: 1
+	Query: "intermontana nevada" ; Times: 1
+	Query: "order:chiroptera county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "santa maria" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "REGALECIDAE" ; Times: 2
+	Query: "catalognumber:19958 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-109.957516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "135680" ; Times: 1
+	Query: "MVZ Mammals 10855" ; Times: 1
+	Query: "ONTARIO" ; Times: 16
+	Query: "2 ONTARIO 1" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-108.427516))&lt;15000" ; Times: 2
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "class:Reptilia county:&#34;Calhoun&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-109.107516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.309036,-105.537516))&lt;15000" ; Times: 1
+	Query: "Kusche" ; Times: 1
+	Query: "genus:leptotyphlops stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "peromyscus nasutus" ; Times: 3
+	Query: "distance(location,geopoint(21.949036,-106.727516))&lt;15000" ; Times: 3
+	Query: "Pachyramphus viridis" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "hexalepis" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(9.318990192397917,-79.73876953125))&lt;731487" ; Times: 1
+	Query: "&#34;CMNH&#34;" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-106.387516))&lt;15000" ; Times: 6
+	Query: "Ornithorhynchus anatinus" ; Times: 2
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "Phyllobates" ; Times: 1
+	Query: "plestiodon gilberti Nevada county" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-112.167516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-106.727516))&lt;15000" ; Times: 4
+	Query: "cryptotis" ; Times: 1
+	Query: "O. Howard AND San Miguel" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 2
+	Query: "Kanakoff AND Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-106.897516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(28.749036,-106.217516))&lt;15000" ; Times: 2
+	Query: "batrachoseps major year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "lacm capromys" ; Times: 3
+	Query: "Turdus hauxwelli" ; Times: 7
+	Query: "type:specimen specificepithet:jararaca" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.557516))&lt;15000" ; Times: 1
+	Query: "catalognumber:181603 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(27.729036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.637516))&lt;15000" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "distance(location,geopoint(20.249036,-110.977516))&lt;15000" ; Times: 5
+	Query: "county:&#34;Lancaster&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Urosaurus ornatus Sinaloa" ; Times: 7
+	Query: "specificepithet:stagnatilis" ; Times: 2
+	Query: "Allobates talamancae" ; Times: 5
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ophryacus melanurus" ; Times: 1
+	Query: "eurycea spelaeus" ; Times: 8
+	Query: "Amazona viridigenalis" ; Times: 2
+	Query: "sula sula websteri" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Agelaius phoeniceus Florida orange County" ; Times: 1
+	Query: "catalognumber:109512 institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-109.787516))&lt;15000" ; Times: 3
+	Query: "catalognumber:19913 institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.617516))&lt;15000" ; Times: 1
+	Query: "gerson" ; Times: 1
+	Query: "Equatorial Guinea class:Mammalia" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-113.527516))&lt;15000" ; Times: 1
+	Query: "MEGACHASMIDAE" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-109.957516))&lt;15000" ; Times: 1
+	Query: "catalognumber:63645 institutioncode:LACM" ; Times: 1
+	Query: "specificepithet:neotenes genus:Eurycea county:&#34;bexar&#34;" ; Times: 2
+	Query: "Howard AND Anacapa" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.807516))&lt;15000" ; Times: 2
+	Query: "ara" ; Times: 1
+	Query: "Gastrophryne mazatlanensis Sinaloa" ; Times: 1
+	Query: "Mitrospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "lisboa" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.217516))&lt;15000" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "catalognumber:134028 institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-109.957516))&lt;15000" ; Times: 3
+	Query: "specificepithet:teguina genus:scotinomys country:&#34;costa rica&#34;" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "catalognumber:36600 institutioncode:LACM" ; Times: 3
+	Query: "distance(location,geopoint(20.929036,-106.897516))&lt;15000" ; Times: 5
+	Query: "GADIDAE" ; Times: 2
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 2
+	Query: "Mustela erminea" ; Times: 1
+	Query: "philander" ; Times: 1
+	Query: "Strongylura exilis" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-110.807516))&lt;15000" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Coccothraustes minnesota" ; Times: 2
+	Query: "distance(location,geopoint(22.459036,-105.197516))&lt;15000" ; Times: 1
+	Query: "genus:Bothrops country:&#34;Colombia&#34;" ; Times: 6
+	Query: "distance(location,geopoint(30.789036,-109.447516))&lt;15000" ; Times: 1
+	Query: "catalognumber:70265 institutioncode:LACM" ; Times: 2
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.147516))&lt;15000" ; Times: 1
+	Query: "cypselurus comatus" ; Times: 3
+	Query: "O. Howard AND Island" ; Times: 1
+	Query: "skin type:specimen specificepithet:speculiferus genus:Nesospingus sex:male" ; Times: 1
+	Query: "Viperidae type:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-108.427516))&lt;15000" ; Times: 1
+	Query: "Lissodelphis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ramphocelus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.537516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(30.619036,-109.617516))&lt;15000" ; Times: 1
+	Query: "Green AND San Clemente Island" ; Times: 1
+	Query: "zalophus" ; Times: 1
+	Query: "Urothraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Gopherus Sinaloa" ; Times: 2
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "genus:mellivora order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "San Nicolas Island AND Herps NOT Guam NOT Bezy" ; Times: 1
+	Query: "megalura" ; Times: 1
+	Query: "devil" ; Times: 3
+	Query: "Camp AND Catalina Island" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Hyla montana" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "polychopterus dorsalis" ; Times: 1
+	Query: "mimus saturninus" ; Times: 1
+	Query: "MVZ AND Green" ; Times: 1
+	Query: "distance(location,geopoint(20.249036,-111.657516))&lt;15000" ; Times: 6
+	Query: "21952" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-107.067516))&lt;15000" ; Times: 1
+	Query: "class:aves catalognumber:41515" ; Times: 1
+	Query: "catalognumber:109643 institutioncode:LACM" ; Times: 4
+	Query: "catalognumber:181581 institutioncode:LACM" ; Times: 2
+	Query: "reptilia DISTRITO FEDERAL. MEXICO." ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-108.427516))&lt;15000" ; Times: 1
+	Query: "specificepithet:rubecula genus:Scelorchilus country:&#34;chile&#34;" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 3
+	Query: "Pyrrhocoma type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 5
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "inezia tenuirostris type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-105.707516))&lt;15000" ; Times: 4
+	Query: "genus:phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.257516))&lt;15000" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "genus:exiliboa" ; Times: 1
+	Query: "Corvus AND San Clemente Island" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.107516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:181602 institutioncode:LACM" ; Times: 2
+	Query: "portugal" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.447516))&lt;15000" ; Times: 1
+	Query: "AMMODYTIDAE]" ; Times: 1
+	Query: "catalognumber:107235 institutioncode:LACM" ; Times: 2
+	Query: "Cnemidophorus costatus Sonora" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-106.557516))&lt;15000" ; Times: 3
+	Query: "chaetodon unimaculatus" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.807516))&lt;15000" ; Times: 1
+	Query: "myrmeciza longipes type:specimen sex:female" ; Times: 1
+	Query: "promops+centralis" ; Times: 1
+	Query: "OPLEGNATHIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Anolis humilis AND (mexico) mappable:1" ; Times: 4
+	Query: "Lepisosteus osseus" ; Times: 1
+	Query: "crocidura" ; Times: 1
+	Query: "Spilogale AND Island NOT Oak NOT FLorida NOT Washington" ; Times: 1
+	Query: "sceloporus undulatus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "rafinesquii (Corynorhinus)" ; Times: 1
+	Query: "puma concolor type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP OR institutioncode:SBMNH" ; Times: 2
+	Query: "catalognumber:70260 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(30.619036,-112.337516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "Leptotyphlops dulcis" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "Sceloporus uniformis" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "chionactis" ; Times: 2
+	Query: "apalone pennsylvania" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.367516))&lt;15000" ; Times: 1
+	Query: "specificepithet:triangulum genus:lampropeltis order:squamata stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "mammalia nuevo leon" ; Times: 13
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "Smyrna" ; Times: 1
+	Query: "Lakeside class:Reptilia county:&#34;san diego&#34;" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-107.577516))&lt;15000" ; Times: 1
+	Query: "genus:ichneumia order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.467516))&lt;15000" ; Times: 1
+	Query: "genus:atilax order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-112.167516))&lt;15000" ; Times: 1
+	Query: "catalognumber:134040 institutioncode:LACM" ; Times: 3
+	Query: "distance(location,geopoint(23.479036,-109.617516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-106.897516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-114.207516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(33.72433966174761,-82.001953125))&lt;100000" ; Times: 1
+	Query: "Lampropeltis getula Sinaloa" ; Times: 1
+	Query: "LACM 70236" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "distance(location,geopoint(29.939036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.787516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(21.609036,-105.537516))&lt;15000" ; Times: 4
+	Query: "BELONIDAE" ; Times: 4
+	Query: "pachyramphus polychopterus tenebrosus" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.297516))&lt;15000" ; Times: 2
+	Query: "Crotalus AND Catalina Island" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.537516))&lt;15000" ; Times: 5
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 4
+	Query: "ambystoma stateprovince:&#34;arizona&#34;" ; Times: 2
+	Query: "GOBIESOCIDAE" ; Times: 3
+	Query: "Leptotyphlops humilis sinaloa" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-113.187516))&lt;15000" ; Times: 1
+	Query: "O. Howard AND Santa Barbara Island" ; Times: 1
+	Query: "family:Picidae preparations:Skeleton institutioncode:LACM" ; Times: 1
+	Query: "(newfoundland)" ; Times: 1
+	Query: "Oceanodroma leucorhoa" ; Times: 1
+	Query: "Batrachoseps robustus" ; Times: 4
+	Query: "58425" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Chrysemys picta tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.047516))&lt;15000" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "xantusia vigilis county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "arius dussumieri" ; Times: 11
+	Query: "distance(location,geopoint(24.159036,-110.637516))&lt;15000" ; Times: 1
+	Query: "puma concolor california type:specimen stateprovince:&#34;California&#34; AND (NOT baja)" ; Times: 1
+	Query: "Aneides aeneus Virginia" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "family:Belonidae stateprovince:&#34;Hawaii&#34;" ; Times: 4
+	Query: "distance(location,geopoint(31.129036,-109.277516))&lt;15000" ; Times: 1
+	Query: "Pinaroloxias type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Plestiodon sex:male" ; Times: 1
+	Query: "Pseudotriton montanus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-113.017516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Marmota" ; Times: 4
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Chlorochrysa type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "mummy" ; Times: 19
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-106.217516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.297516))&lt;15000" ; Times: 1
+	Query: "catalognumber:64278 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-108.767516))&lt;15000" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-106.897516))&lt;15000" ; Times: 1
+	Query: "Coatzacoalcos" ; Times: 2
+	Query: "specificepithet:variegatoides genus:sciurus country:&#34;costa rica&#34;" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 4
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "EURYCEA GUTTOLINEATA ALABAMA" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 3
+	Query: "distance(location,geopoint(31.299036,-113.867516))&lt;15000" ; Times: 1
+	Query: "catalognumber:44150 institutioncode:LACM" ; Times: 1
+	Query: "Hemidactylus turcicus type:specimen" ; Times: 1
+	Query: "Elaphe climacophora" ; Times: 1
+	Query: "skin type:specimen specificepithet:rosea genus:Rhodinocichla sex:male" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Gunnellichthys institutioncode:LACM" ; Times: 1
+	Query: "Iridosornis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "noctilio" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.537516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(31.299036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.249036,-106.217516))&lt;15000" ; Times: 3
+	Query: "specificepithet:granatensis genus:Sciurus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "San Nicolas Island AND Herps NOT Guam" ; Times: 1
+	Query: "type:specimen specificepithet:Ventralis genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(11.049038346537106,-83.47412109375))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-106.387516))&lt;15000" ; Times: 4
+	Query: "Nocomis micropogon" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.707516))&lt;15000" ; Times: 4
+	Query: "Myiarchus semirufus" ; Times: 1
+	Query: "catalognumber:2964 institutioncode:LACM" ; Times: 2
+	Query: "ontario" ; Times: 4
+	Query: "distance(location,geopoint(20.589036,-112.167516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(29.939036,-108.257516))&lt;15000" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.027516))&lt;15000" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 2
+	Query: "FMNH 67" ; Times: 1
+	Query: "skin type:specimen specificepithet:gularis genus:Paroaria sex:male (nigrogenis)" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-107.067516))&lt;15000" ; Times: 1
+	Query: "skull genus:Patagioenas preparations:skull" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-112.677516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-107.237516))&lt;15000" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "thamnophis sirtalis (Nebraska)" ; Times: 1
+	Query: "distance(location,geopoint(20.249036,-111.827516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(32.149036,-113.697516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.929036,-106.217516))&lt;15000" ; Times: 3
+	Query: "Agelaius phoeniceus California San Bernardino County victorville" ; Times: 1
+	Query: "specificepithet:pictus genus:lycaon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 1
+	Query: "SCHINDLERIIDAE" ; Times: 1
+	Query: "calothorax lucifer" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "CHLAMYDOSELACHIDAE" ; Times: 3
+	Query: "stolzmanni" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-105.027516))&lt;15000" ; Times: 1
+	Query: "165880" ; Times: 1
+	Query: "phyllodactylus" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "lacm thryonomyidae" ; Times: 1
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 3
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.957516))&lt;15000" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:181629 institutioncode:LACM" ; Times: 2
+	Query: "Lasionycteris AND Island AND California" ; Times: 2
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-110.467516))&lt;15000" ; Times: 1
+	Query: "class:aves catalognumber:23552" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-106.047516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(32.149036,-110.977516))&lt;15000" ; Times: 3
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "Masticophis flagellum Sinaloa" ; Times: 2
+	Query: "Agelaius phoeniceus California San Bernardino County" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-107.747516))&lt;15000" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "pelecanus onocrotalus (africa skeleton)" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "genus:Hyla specificepithet:arborea" ; Times: 1
+	Query: "Melanodera type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "natrix natrix" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-105.367516))&lt;15000" ; Times: 4
+	Query: "family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 5
+	Query: "Lelande AND Anacapa" ; Times: 1
+	Query: "Miyata" ; Times: 2
+	Query: "Hydromys" ; Times: 2
+	Query: "batrachoseps gregarius distance(location,geopoint(37.686718272596075,-119.4873046875))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-106.047516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-113.017516))&lt;15000" ; Times: 1
+	Query: "Elaphe dione" ; Times: 1
+	Query: "Phrynosoma platyrhinos Baja California" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.017516))&lt;15000" ; Times: 1
+	Query: "genus:Senticolis" ; Times: 1
+	Query: "MMNH" ; Times: 1
+	Query: "Kanakoff AND ISland" ; Times: 1
+	Query: "distance(location,geopoint(21.269036,-105.367516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-108.937516))&lt;15000" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-114.717516))&lt;15000" ; Times: 1
+	Query: "specificepithet:sanguinea genus:galerella order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Camp AND Catalina" ; Times: 1
+	Query: "San Nicolas Island" ; Times: 1
+	Query: "Zalieutes" ; Times: 3
+	Query: "specificepithet:ocoee stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Anolis intermedius mappable:1 distance(location,geopoint(12.21118019150401,-84.9462890625))&lt;366345" ; Times: 1
+	Query: "phalacrocorax carbo (africa)" ; Times: 1
+	Query: "Ara macao" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-111.657516))&lt;15000" ; Times: 1
+	Query: "elaenia pelzelni type:specimen" ; Times: 1
+	Query: "class:Mammalia genus:dasypus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "wigginsi stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "sturnus contra india" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "euroscaptor" ; Times: 3
+	Query: "Ophisaurus" ; Times: 1
+	Query: "Hemithraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Chico" ; Times: 1
+	Query: "Cre 19" ; Times: 2
+	Query: "Pseudacris brachyphona Virginia" ; Times: 2
+	Query: "Anacapa AND Rattus" ; Times: 1
+	Query: "Bufo kelloggi" ; Times: 1
+	Query: "distance(location,geopoint(20.249036,-111.997516))&lt;15000" ; Times: 5
+	Query: "genus:siren" ; Times: 2
+	Query: "distance(location,geopoint(21.609036,-106.557516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(21.099036,-106.727516))&lt;15000" ; Times: 3
+	Query: "catalognumber:75329 institutioncode:LACM" ; Times: 5
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 81
+	Query: "distance(location,geopoint(32.149036,-112.677516))&lt;15000" ; Times: 2
+	Query: "specificepithet:berlandieri genus:Rana county:&#34;Imperial&#34;" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.767516))&lt;15000" ; Times: 1
+	Query: "mugil cephalus" ; Times: 1
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-109.617516))&lt;15000" ; Times: 2
+	Query: "country:&#34;canada&#34; (whitehorse yukon)" ; Times: 1
+	Query: "Arremon taciturnus" ; Times: 1
+	Query: "Phyllorhynchus browni Sinaloa" ; Times: 3
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "copenhagen" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (cerberus)" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.887516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-106.897516))&lt;15000" ; Times: 1
+	Query: "class:Reptilia county:&#34;dona ana&#34; stateprovince:&#34;New mexico&#34; year &gt;= 1968 year &lt;= 1968 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-108.597516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-105.877516))&lt;15000" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "oxybelis" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "Orchesticus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Peucedramus taeniatus" ; Times: 1
+	Query: "catalognumber:84033 institutioncode:LACM" ; Times: 3
+	Query: "Arizona elegans baja california" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.367516))&lt;15000" ; Times: 2
+	Query: "catalognumber:114667 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(24.159036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-105.197516))&lt;15000" ; Times: 1
+	Query: "abudefduf" ; Times: 1
+	Query: "Aneides aeneus (Alabama OR AL OR alabama OR Al OR al)" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "LACM Herps Santa Rosa Island" ; Times: 2
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "170562" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.787516))&lt;15000" ; Times: 1
+	Query: "126420" ; Times: 1
+	Query: "Aphelocoma californica obscura institutioncode:LACM" ; Times: 1
+	Query: "&#34;D. K. Richards&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "SMF" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-105.877516))&lt;15000" ; Times: 5
+	Query: "11221" ; Times: 1
+	Query: "Bison bison" ; Times: 6
+	Query: "distance(location,geopoint(31.809036,-111.487516))&lt;15000" ; Times: 1
+	Query: "gyalopion" ; Times: 3
+	Query: "terrapene ornata" ; Times: 1
+	Query: "distance(location,geopoint(28.239036,-108.087516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-109.957516))&lt;15000" ; Times: 2
+	Query: "Podarcis" ; Times: 2
+	Query: "Hyalinobatrachium" ; Times: 3
+	Query: "Ursidae" ; Times: 2
+	Query: "Rangifer tarandus caribou Ontario" ; Times: 11
+	Query: "SYMPHYSANODONTIDAE" ; Times: 1
+	Query: "Micromys minutus" ; Times: 2
+	Query: "myrmeciza longipes type:specimen" ; Times: 1
+	Query: "pelecanus rufescens" ; Times: 1
+	Query: "type:specimen genus:Bison mappable:1" ; Times: 1
+	Query: "lacm dasyproctidae" ; Times: 1
+	Query: "RAJIDAE" ; Times: 2
+	Query: "Batrachoseps gabrieli" ; Times: 1
+	Query: "catalognumber:181623 institutioncode:LACM" ; Times: 2
+	Query: "Panthera Leo" ; Times: 2
+	Query: "distance(location,geopoint(22.459036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Coleonyx switaki" ; Times: 4
+	Query: "reptilia D.F" ; Times: 1
+	Query: "anhinga rufa" ; Times: 1
+	Query: "Rhinocheilus lecontei baja california" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-109.277516))&lt;15000" ; Times: 1
+	Query: "herps type:specimen recordedby:T Wake institutioncode:LACM" ; Times: 1
+	Query: "LACM 579 AND Kana Kopp" ; Times: 1
+	Query: "Chlorornis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Hemidactylus turcicus (Hamilton county)" ; Times: 1
+	Query: "genus:ara (militaris)" ; Times: 1
+	Query: "distance(location,geopoint(27.219036,-112.337516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1880 year &lt;= 1890 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(28.069036,-110.637516))&lt;15000" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "specificepithet:gabonica genus:bitis institutioncode:LACM" ; Times: 1
+	Query: "&#34;puma concolor&#34; type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP OR institutioncode:SBMNH" ; Times: 1
+	Query: "triaspis" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "schiffornis virescens" ; Times: 3
+	Query: "Ascaphus truei" ; Times: 2
+	Query: "26214" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 4
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Wyoming&#34;" ; Times: 11
+	Query: "dipodomys ordii" ; Times: 2
+	Query: "lacm capromyidae" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.027516))&lt;15000" ; Times: 1
+	Query: "Wilsonia canadensis  Ontario" ; Times: 10
+	Query: "distance(location,geopoint(20.759036,-106.557516))&lt;15000" ; Times: 3
+	Query: "Crotalus atrox stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:181601 institutioncode:LACM" ; Times: 3
+	Query: "distance(location,geopoint(31.129036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "myrmotherula longipennis type:specimen sex:male" ; Times: 1
+	Query: "glaucomys" ; Times: 2
+	Query: "Hyla arborea" ; Times: 2
+	Query: "distance(location,geopoint(21.949036,-111.317516))&lt;15000" ; Times: 3
+	Query: "&#34;caiman crocodilus crocodilus&#34;" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "type:specimen order:lagomorpha county:&#34;Los Angeles&#34; preparations:skeleton institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-107.917516))&lt;15000" ; Times: 1
+	Query: "129686" ; Times: 1
+	Query: "AUCHENIPTERIDAE" ; Times: 2
+	Query: "distance(location,geopoint(21.439036,-105.027516))&lt;15000" ; Times: 8
+	Query: "Anolis cristatellus mappable:1" ; Times: 1
+	Query: "spea bombifrons" ; Times: 5
+	Query: "94450 LACM" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "skin type:specimen specificepithet:zena genus:Spindalis sex:male institutioncode:LACM" ; Times: 1
+	Query: "tachybaptus (africa)" ; Times: 2
+	Query: "notropis cornutus" ; Times: 1
+	Query: "Holbrookia elegans Sinaloa" ; Times: 2
+	Query: "order:cetacea (orca)" ; Times: 3
+	Query: "distance(location,geopoint(25.179036,-108.257516))&lt;15000" ; Times: 1
+	Query: "cnemidophorus sexlineatus" ; Times: 3
+	Query: "cynopterus" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Anolis gundlachi mappable:1" ; Times: 1
+	Query: "lacm octodontidae" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 3
+	Query: "kenya type:specimen (skeleton)" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-107.407516))&lt;15000" ; Times: 1
+	Query: "ZENIONIDAE" ; Times: 1
+	Query: "type:specimen (alouatta)" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-106.557516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(31.299036,-110.467516))&lt;15000" ; Times: 1
+	Query: "corvus corax" ; Times: 1
+	Query: "SAN MIGUEL ISLAND AND MAMMALS AND 1939" ; Times: 1
+	Query: "SAN MIGUEL ISLAND AND MAMMALS AND 1938" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "Schistochlamys type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "SAN MIGUEL ISLAND AND MAMMALS AND 1930" ; Times: 2
+	Query: "Sceloporus magister Sinaloa" ; Times: 1
+	Query: "family:Cathartidae country:&#34;Colombia&#34;" ; Times: 5
+	Query: "Loxigilla type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "lacm caviidae" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:davis" ; Times: 1
+	Query: "genus:BDEOGALE family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "Erythrolamprus" ; Times: 1
+	Query: "catalognumber:42017 institutioncode:LACM" ; Times: 2
+	Query: "specificepithet:intermedius genus:crotalus institutioncode:LACM" ; Times: 1
+	Query: "crotalus viridis Navajo county" ; Times: 1
+	Query: "elaphe obsoleta houston" ; Times: 1
+	Query: "batrachoseps gregarius" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-114.377516))&lt;15000" ; Times: 1
+	Query: "Crotalus horridus year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.427516))&lt;15000" ; Times: 1
+	Query: "Tantilla yaquia Arizona" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.827516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-111.487516))&lt;15000" ; Times: 1
+	Query: "herps type:specimen institutioncode:LACM" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 78
+	Query: "distance(location,geopoint(21.779036,-106.897516))&lt;15000" ; Times: 3
+	Query: "Chlidonias hybrida" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-108.087516))&lt;15000" ; Times: 1
+	Query: "San Nicolas Island AND 1930 NOT 1968" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.977516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pricei)" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.047516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.677516))&lt;15000" ; Times: 1
+	Query: "Perissodactyla" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.697516))&lt;15000" ; Times: 1
+	Query: "1874-08-24" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 3
+	Query: "distance(location,geopoint(31.469036,-106.047516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.929036,-106.557516))&lt;15000" ; Times: 3
+	Query: "getula" ; Times: 1
+	Query: "Dipodomys panamintinus" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-111.827516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "Lepidophyma tuxtlae" ; Times: 1
+	Query: "specificepithet:crassicauda genus:bdeogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "bothriechis lateralis" ; Times: 1
+	Query: "thamnophis rufipunctatus tissue:1" ; Times: 1
+	Query: "Anacapa" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "crotalus benton oregon" ; Times: 1
+	Query: "sylvietta isabellina" ; Times: 2
+	Query: "Spermophilus mohavensis" ; Times: 1
+	Query: "type:specimen genus:Psittacula (columboides)" ; Times: 1
+	Query: "allinson" ; Times: 1
+	Query: "(Crotalus lepidus)" ; Times: 1
+	Query: "Chiroptera distance(location,geopoint(30.78903675126116,-115.389404296875))&lt;100000" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34;" ; Times: 1
+	Query: "Anolis humilis mappable:1" ; Times: 3
+	Query: "herpetology type:specimen institutioncode:LACM" ; Times: 1
+	Query: "KASSINA" ; Times: 2
+	Query: "catalognumber:75338 institutioncode:LACM" ; Times: 3
+	Query: "Dipodomys panamintinus panamintinus" ; Times: 1
+	Query: "Thamnophis cyrtopsis Sinaloa" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "elgaria solano" ; Times: 2
+	Query: "Mephitis macroura" ; Times: 2
+	Query: "pulsatrix koeniswaldiana" ; Times: 3
+	Query: "genus:Bolitoglossa specificepithet:altamazonica" ; Times: 1
+	Query: "terpsiphone mutata" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-107.237516))&lt;15000" ; Times: 3
+	Query: "orca" ; Times: 1
+	Query: "peromyscus maniculatus los angeles" ; Times: 1
+	Query: "type:specimen specificepithet:leucopyga genus:Tachycineta mappable:1" ; Times: 1
+	Query: "boyaca" ; Times: 1
+	Query: "skull genus:Henicophaps preparations:skull" ; Times: 1
+	Query: "atheris" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-109.787516))&lt;15000" ; Times: 1
+	Query: "turdoides caudatus india" ; Times: 2
+	Query: "Skiltonianus Nevada county" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-109.787516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(22.969036,-107.237516))&lt;15000" ; Times: 2
+	Query: "podilymbus gigas" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "specificepithet:silvestris genus:felis family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "ficimia streckeri" ; Times: 6
+	Query: "distance(location,geopoint(20.249036,-105.197516))&lt;15000" ; Times: 3
+	Query: "Celeus subflavus" ; Times: 3
+	Query: "distance(location,geopoint(24.669036,-107.407516))&lt;15000" ; Times: 1
+	Query: "catalognumber:66941 institutioncode:LACM" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Santa Barbara Island AND Canis" ; Times: 1
+	Query: "type:specimen genus:Phylloscartes class:Aves stateprovince:&#34;RIO&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (triaspis)" ; Times: 1
+	Query: "triturus carnifex" ; Times: 1
+	Query: "Lawton" ; Times: 1
+	Query: "Chamaeleo senegalensis" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-107.067516))&lt;15000" ; Times: 1
+	Query: "specificepithet:ichneumon genus:Herpestes family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Gambelia wislizenii Baja California" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-105.877516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(25.349036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Athene cunicularia Ontario" ; Times: 10
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "lacm cuniculidae" ; Times: 1
+	Query: "genus:Henicophaps preparations:Skeleton institutioncode:LACM" ; Times: 1
+	Query: "HETERENCHELYIDAE" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "paracrocidura" ; Times: 1
+	Query: "specificepithet:CARACAL genus:CARACAL family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Sturnella magna Ontario" ; Times: 10
+	Query: "distance(location,geopoint(20.249036,-105.367516))&lt;15000" ; Times: 4
+	Query: "ambystoma laterale" ; Times: 2
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "mammals coahuila" ; Times: 71
+	Query: "lacm myocastor" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "Haliaeetus vocifer" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 7
+	Query: "tantilla country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-107.237516))&lt;15000" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 4
+	Query: "Crotalus cerastes Baja California" ; Times: 1
+	Query: "pipa pipa" ; Times: 1
+	Query: "microsciurus" ; Times: 1
+	Query: "catalognumber:104931 institutioncode:LACM" ; Times: 2
+	Query: "pseudacris regilla" ; Times: 6
+	Query: "distance(location,geopoint(23.309036,-109.787516))&lt;15000" ; Times: 1
+	Query: "DIcamptodon ensatus" ; Times: 1
+	Query: "&#34;Sciurus griseus&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-108.087516))&lt;15000" ; Times: 1
+	Query: "lacm Hydrochaeris" ; Times: 1
+	Query: "lepus californicus" ; Times: 1
+	Query: "Saltator type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-107.917516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.767516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(26.029036,-111.827516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; mappable:1" ; Times: 3
+	Query: "ALOPIAS VULPINUS" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34;" ; Times: 6
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "distance(location,geopoint(25.349036,-107.577516))&lt;15000" ; Times: 1
+	Query: "grallaria varia" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "38 ONTARIO 1" ; Times: 1
+	Query: "skull genus:Oena preparations:skull" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "Plestiodon copei" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-109.447516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-105.197516))&lt;15000" ; Times: 1
+	Query: "catalognumber:84031 institutioncode:LACM" ; Times: 4
+	Query: "distance(location,geopoint(31.809036,-106.897516))&lt;15000" ; Times: 1
+	Query: "LACM" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-113.017516))&lt;15000" ; Times: 1
+	Query: "catalognumber:2969 institutioncode:LACM" ; Times: 2
+	Query: "micronycteris" ; Times: 1
+	Query: "specificepithet:tigrina genus:genetta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "type:specimen genus:Enicognathus institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(20.929036,-109.107516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(28.749036,-105.877516))&lt;15000" ; Times: 1
+	Query: "Neothraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "musk turtle" ; Times: 2
+	Query: "distance(location,geopoint(25.859036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-109.787516))&lt;15000" ; Times: 3
+	Query: "jay" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "Corvus AND Island" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Accipiter striatus 1" ; Times: 2
+	Query: "(Galapagos)" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.389036,-112.337516))&lt;15000" ; Times: 1
+	Query: "Cinnycerthia peruana" ; Times: 1
+	Query: "cuba" ; Times: 1
+	Query: "catalognumber:84040 institutioncode:LACM" ; Times: 2
+	Query: "specificepithet:intermedius genus:crotalus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "lacm mammal" ; Times: 1
+	Query: "barbouri" ; Times: 2
+	Query: "Pteroglossus inscriptus" ; Times: 2
+	Query: "Arremon flavirostris" ; Times: 1
+	Query: "Plestiodon" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.187516))&lt;15000" ; Times: 1
+	Query: "puma concolor type:specimen (california) institutioncode:LACM" ; Times: 1
+	Query: "plethodon welleri" ; Times: 4
+	Query: "Pternohyla fodiens Sinaloa" ; Times: 1
+	Query: "&#34;La Garita&#34;" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "specificepithet:parvula genus:helogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "couchii" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.387516))&lt;15000" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "order:squamata county:&#34;burleson&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "94444 LACM" ; Times: 1
+	Query: "chiroptera baja california order:chiroptera" ; Times: 2
+	Query: "distance(location,geopoint(30.959036,-110.297516))&lt;15000" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "the mammals of new mexico" ; Times: 6
+	Query: "Urocyon littoralis santacruzae" ; Times: 1
+	Query: "Thraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "1955 Williams Kenya" ; Times: 2
+	Query: "phrynohyas venulosa" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 2
+	Query: "jot" ; Times: 1
+	Query: "LACM 93174" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-106.217516))&lt;15000" ; Times: 5
+	Query: "specificepithet:teguina order:rodentia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-114.547516))&lt;15000" ; Times: 1
+	Query: "Pachyramphus venezuela" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-105.197516))&lt;15000" ; Times: 5
+	Query: "specificepithet:GENETTA genus:GENETTA family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "trinectes" ; Times: 1
+	Query: "Tangara type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.507516))&lt;15000" ; Times: 1
+	Query: "heloderma suspectum utah" ; Times: 1
+	Query: "polystictus" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.297516))&lt;15000" ; Times: 1
+	Query: "hyla avivoca alabama" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:leprus" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "DACTYLOSCOPIDAE" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-112.847516))&lt;15000" ; Times: 1
+	Query: "catalognumber:104988 institutioncode:LACM" ; Times: 2
+	Query: "Chionactis occipitalis Baja california" ; Times: 1
+	Query: "specificepithet:mungo genus:mungos family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "specificepithet:SILVESTRIS genus:FELIS family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Stephanophorus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "caretta" ; Times: 1
+	Query: "genus:peromyscus locality:chiricahua" ; Times: 1
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 2
+	Query: "distance(location,geopoint(23.139036,-106.557516))&lt;15000" ; Times: 1
+	Query: "Gastrophryne olivacea Sinaloa" ; Times: 1
+	Query: "catalognumber:127502 institutioncode:LACM" ; Times: 3
+	Query: "Rhodospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-105.027516))&lt;15000" ; Times: 1
+	Query: "specificepithet:multiplicata genus:eurycea" ; Times: 1
+	Query: "Heterospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Lampropeltis pyromelana type:specimen mappable:1" ; Times: 1
+	Query: "Felis AND Island AND California NOT Mexico" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "spain" ; Times: 1
+	Query: "Pipa carvalhoi" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.557516))&lt;15000" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "type:specimen genus:iguana mappable:1 tissue:1" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Lissodelphis borealis stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:183217 institutioncode:LACM" ; Times: 1
+	Query: "Tana River (loxodonta) institutioncode:LACM" ; Times: 1
+	Query: "puma concolor type:specimen (california)" ; Times: 2
+	Query: "miyata" ; Times: 2
+	Query: "Dendroica cerulea Ontario" ; Times: 10
+	Query: "amphibian institutioncode:LACM" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-107.577516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Inia" ; Times: 1
+	Query: "Diuca type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Ctenosaura" ; Times: 2
+	Query: "sarkidiornis" ; Times: 1
+	Query: "Thomomys bottae" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-108.427516))&lt;15000" ; Times: 1
+	Query: "specificepithet:talamancae country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "mabuya megalura" ; Times: 1
+	Query: "Lichanura riverside" ; Times: 3
+	Query: "Micruroides euryxanthus" ; Times: 2
+	Query: "mammals o f new mexico" ; Times: 1
+	Query: "distance(location,geopoint(21.269036,-105.027516))&lt;15000" ; Times: 6
+	Query: "Volatinia type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "LACM 000731" ; Times: 1
+	Query: "O. Howard AND LACM AND 1906" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.367516))&lt;15000" ; Times: 5
+	Query: "Macrotus waterhousii" ; Times: 2
+	Query: "hemidactylus turcicus (parker county)" ; Times: 1
+	Query: "lacm myocastoridae" ; Times: 1
+	Query: "odontophrynus occidentalis" ; Times: 1
+	Query: "family:Cricetidae continent:South America institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.977516))&lt;15000" ; Times: 1
+	Query: "whale" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-107.407516))&lt;15000" ; Times: 1
+	Query: "arenicolor" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.073130945006625,-107.57537841796875))&lt;100000" ; Times: 1
+	Query: "genus:Patagioenas preparations:Skeleton institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.877516))&lt;15000" ; Times: 1
+	Query: "elaenia pelzelni" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-111.317516))&lt;15000" ; Times: 4
+	Query: "mammalia of coahuila" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.537516))&lt;15000" ; Times: 1
+	Query: "type:specimen institutioncode:LACM" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 4
+	Query: "plestiodon" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.539036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.657516))&lt;15000" ; Times: 1
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "heterodontus" ; Times: 1
+	Query: "goudoti" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-107.747516))&lt;15000" ; Times: 1
+	Query: "Phoenicopterus" ; Times: 1
+	Query: "panther" ; Times: 1
+	Query: "acris gryllus alabama" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.747516))&lt;15000" ; Times: 1
+	Query: "type:specimen order:rodentia county:&#34;Los Angeles&#34; preparations:skull institutioncode:LACM" ; Times: 1
+	Query: "genus:sistrurus order:squamata stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "phylloscopus griseolus india" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.637516))&lt;15000" ; Times: 1
+	Query: "caiman crocodilus crocodilus" ; Times: 1
+	Query: "CMNH" ; Times: 1
+	Query: "Serrasalmidae" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Holbrookia lacerata" ; Times: 3
+	Query: "Anacapa AND Herps AND 1933" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "Idionycteris phyllotis" ; Times: 2
+	Query: "Anacapa AND Herps AND 1938" ; Times: 1
+	Query: "order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 4
+	Query: "crotalus mitchelli stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "Phrygilus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-112.337516))&lt;15000" ; Times: 2
+	Query: "skin type:specimen specificepithet:chloricterus genus:Orthogonys sex:male institutioncode:LACM" ; Times: 1
+	Query: "lampropeltis mexicana" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-112.167516))&lt;15000" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "HAEMULIDAE" ; Times: 4
+	Query: "distance(location,geopoint(31.129036,-114.717516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1910 year &lt;= 1920 mappable:1" ; Times: 1
+	Query: "Lanio type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Trimorphodon" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-105.027516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(30.789036,-111.827516))&lt;15000" ; Times: 2
+	Query: "specificepithet:subsalsum genus:Ambystoma" ; Times: 1
+	Query: "catalognumber:34336 institutioncode:LACM" ; Times: 1
+	Query: "Onychomys torridus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-105.027516))&lt;15000" ; Times: 5
+	Query: "Diglossa baritula" ; Times: 6
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 3
+	Query: "distance(location,geopoint(24.159036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Thamnistes anabatinus" ; Times: 1
+	Query: "Dipsosaurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "distance(location,geopoint(20.249036,-105.537516))&lt;15000" ; Times: 3
+	Query: "catalognumber:122474 institutioncode:LACM" ; Times: 2
+	Query: "57993" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.073130945006625,-107.57537841796875))&lt;71306" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-106.047516))&lt;15000" ; Times: 4
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:44449 institutioncode:LACM" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "gallinula chloropus" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.597516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-108.937516))&lt;15000" ; Times: 5
+	Query: "coluber spinalis" ; Times: 1
+	Query: "catalognumber:28006 institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.377516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-105.367516))&lt;15000" ; Times: 1
+	Query: "abronia mixteca" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.367516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(25.179036,-112.167516))&lt;15000" ; Times: 1
+	Query: "Procyonidae" ; Times: 1
+	Query: "catalognumber:181625 institutioncode:LACM" ; Times: 2
+	Query: "lacm aplodontidae OR gliridae" ; Times: 1
+	Query: "LACM AND Von Bloeker AND Anacapa" ; Times: 1
+	Query: "chordata of coahuila" ; Times: 3
+	Query: "distance(location,geopoint(20.929036,-106.047516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(21.609036,-111.147516))&lt;15000" ; Times: 3
+	Query: "lacm Chinchillidae" ; Times: 1
+	Query: "reptilia (La Grange)" ; Times: 1
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(11.049038346537106,-83.47412109375))&lt;367056" ; Times: 1
+	Query: "institutioncode:LACM" ; Times: 5
+	Query: "catalognumber:116012 institutioncode:LACM" ; Times: 2
+	Query: "94455 LACM" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-105.197516))&lt;15000" ; Times: 7
+	Query: "distance(location,geopoint(24.499036,-107.067516))&lt;15000" ; Times: 2
+	Query: "phalacrocorax africanus (africa skeleton)" ; Times: 1
+	Query: "catalognumber:181621 institutioncode:LACM" ; Times: 3
+	Query: "Coniophanes imperialis" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 3
+	Query: "distance(location,geopoint(31.129036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-107.407516))&lt;15000" ; Times: 3
+	Query: "	Cacajao calvus	 100" ; Times: 1
+	Query: "catalognumber:44725 institutioncode:LACM" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "pelecanus" ; Times: 4
+	Query: "specificepithet:crocuta genus:crocuta order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 13
+	Query: "Anolis lemurinus mappable:1" ; Times: 3
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:CAS OR institutioncode:LACM OR institutioncode:MVZ OR institutioncode:SBNMH OR institutioncode:UCMP" ; Times: 2
+	Query: "Hyporhamphus" ; Times: 4
+	Query: "ambystoma maculatum distance(location,geopoint(34.994003757575776,-82.81494140625))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-109.107516))&lt;15000" ; Times: 1
+	Query: "genus:Ammospermophilus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-106.897516))&lt;15000" ; Times: 2
+	Query: "genus:sus" ; Times: 2
+	Query: "distance(location,geopoint(21.779036,-105.367516))&lt;15000" ; Times: 4
+	Query: "distance(location,geopoint(32.149036,-114.037516))&lt;15000" ; Times: 1
+	Query: "Rowley AND Santa Cruz Island" ; Times: 2
+	Query: "Charitospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Pilosa" ; Times: 2
+	Query: "ptychadena trinodis" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.257516))&lt;15000" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:enyo genus:crotalus institutioncode:LACM" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 2
+	Query: "distance(location,geopoint(31.129036,-114.887516))&lt;15000" ; Times: 1
+	Query: "ictalurus" ; Times: 5
+	Query: "Pseudacris AND Catalina Island" ; Times: 1
+	Query: "103433" ; Times: 2
+	Query: "1 ONTARIO 1" ; Times: 3
+	Query: "Sorex bendirii" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 4
+	Query: "Saltatricula type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "mammals of chihuahua" ; Times: 17
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "type:specimen genus:iguana mappable:1" ; Times: 1
+	Query: "aegotheles albertisi" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-106.217516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Intermedius genus:Crotalus stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Arremon semitorquatus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis county:&#34;Tazewell&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "boiga" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-115.057516))&lt;15000" ; Times: 1
+	Query: "Trogon surrucura" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.807516))&lt;15000" ; Times: 1
+	Query: "podargus ocellatus" ; Times: 1
+	Query: "phalacrocorax carbo (africa skeleton)" ; Times: 1
+	Query: "Compsothraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(28.239036,-108.257516))&lt;15000" ; Times: 1
+	Query: "Rangifer tarandus caribou ONTARIO 1" ; Times: 2
+	Query: "catalognumber:63447 institutioncode:LACM" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "Tijeras Moscopan" ; Times: 3
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-114.717516))&lt;15000" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 3
+	Query: "squamata order:squamata county:&#34;lee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "plethodon welleri north carolina mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 758 (out of 1312 download events in this period)
+Total number of records downloaded: 896309
+Number of different countries: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 345
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 11
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 100
+	Country: Unknown ; Times: 28
+	Country: Panama ; Times: 237
+	Country: South Africa ; Times: 7
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: United Arab Emirates ; Times: 2
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 9
+	Date: 2016-04-07 ; Times: 21
+	Date: 2016-04-06 ; Times: 25
+	Date: 2016-04-05 ; Times: 20
+	Date: 2016-04-04 ; Times: 77
+	Date: 2016-04-21 ; Times: 48
+	Date: 2016-04-20 ; Times: 31
+	Date: 2016-04-23 ; Times: 31
+	Date: 2016-04-22 ; Times: 127
+	Date: 2016-04-25 ; Times: 23
+	Date: 2016-04-24 ; Times: 11
+	Date: 2016-04-09 ; Times: 13
+	Date: 2016-04-26 ; Times: 24
+	Date: 2016-04-08 ; Times: 20
+	Date: 2016-04-27 ; Times: 18
+	Date: 2016-04-18 ; Times: 15
+	Date: 2016-04-19 ; Times: 108
+	Date: 2016-04-14 ; Times: 19
+	Date: 2016-04-15 ; Times: 26
+	Date: 2016-04-16 ; Times: 21
+	Date: 2016-04-17 ; Times: 11
+	Date: 2016-04-10 ; Times: 7
+	Date: 2016-04-11 ; Times: 13
+	Date: 2016-04-12 ; Times: 18
+	Date: 2016-04-13 ; Times: 11
+	Date: 2016-04-29 ; Times: 7
+	Date: 2016-04-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "batrachoseps robustus" ; Times: 1
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "Oreomanes type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1980 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "nototriton" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34; country:&#34;United States&#34; mappable:1" ; Times: 2
+	Query: "Embernagra type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "Ara macao" ; Times: 1
+	Query: "PSEUDOCARCHARIIDAE" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "PEMPHERIDAE" ; Times: 1
+	Query: "Hemithraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "ALEPOCEPHALIDAE" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1940 year &lt;= 1950 mappable:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Anolis limifrons mappable:1" ; Times: 1
+	Query: "SYNBRANCHIDAE" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "APTERONOTIDAE" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "ISTIOPHORIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "Wetmorethraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Dipsosaurus dorsalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "EPIGONIDAE" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "ELEOTRIDAE" ; Times: 1
+	Query: "Lamprospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "Hemispingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "Orchesticus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1890 year &lt;= 1900 mappable:1" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "Cyanerpes type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "puma concolor california type:specimen stateprovince:&#34;California&#34; AND (NOT baja) institutioncode:LACM OR institutioncode:CAS OR institutioncode:MVZ OR institutioncode:UCMP OR institutioncode:SBMNH" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "Chrysothlypis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "GRAMMICOLEPIDIDAE" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 3 mappable:1" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 4 mappable:1" ; Times: 2
+	Query: "Turdus hauxwelli" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "Anolis cupreus (Honduras) mappable:1" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 7 mappable:1" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "heterodontus francisci" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "SYMPHYSANODONTIDAE" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "MOLIDAE" ; Times: 1
+	Query: "HETERENCHELYIDAE" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "CHANIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "RACHYCENTRIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "Chlorornis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "CIRRHITIDAE" ; Times: 1
+	Query: "Coryphospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "RHINOCHIMAERIDAE" ; Times: 1
+	Query: "Tachyphonus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "Nyctomys" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "RHINCODONTIDAE" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 8
+	Query: "Camarhynchus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Eleutherodactylus rhodopis" ; Times: 1
+	Query: "&#34;caiman crocodilus crocodilus&#34;" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "type:specimen order:lagomorpha county:&#34;Los Angeles&#34; preparations:skeleton institutioncode:LACM" ; Times: 1
+	Query: "Creurgops type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "AUCHENIPTERIDAE" ; Times: 1
+	Query: "type:specimen genus:Tachycineta mappable:1" ; Times: 2
+	Query: "stolzmanni" ; Times: 1
+	Query: "phoebastria immutabilis" ; Times: 1
+	Query: "sotalia fluviatilis" ; Times: 1
+	Query: "specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "Cissopis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "Dicamptodon ensatus Lake County" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "NOMEIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 6 mappable:1" ; Times: 1
+	Query: "ACROPOMATIDAE" ; Times: 1
+	Query: "Anolis gundlachi mappable:1" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1930 year &lt;= 1940 mappable:1" ; Times: 1
+	Query: "ATHERINOPSIDAE" ; Times: 2
+	Query: "Myiarchus tuberculifer type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:Tachycineta mappable:1" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "Loxigilla type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "CHAENOPSIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:albiventer genus:Tachycineta mappable:1" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "type:specimen order:rodentia county:&#34;los angeles&#34; preparations:skeleton institutioncode:LACM" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "EMMELICHTHYIDAE" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1970 year &lt;= 1975 mappable:1" ; Times: 2
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "NARCINIDAE" ; Times: 1
+	Query: "RHINOPTERIDAE" ; Times: 1
+	Query: "Haplospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "lacm aplodontia" ; Times: 1
+	Query: "HEMISCYLLIIDAE" ; Times: 1
+	Query: "phoebastria nigripes" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "coahuila mammals" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 9 mappable:1" ; Times: 1
+	Query: "TRIACANTHODIDAE" ; Times: 2
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "AULOSTOMIDAE" ; Times: 1
+	Query: "Trichothraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Dacnis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1975 year &lt;= 1980 mappable:1" ; Times: 1
+	Query: "Pipraeidea type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Emberizoides type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Plethodon metcalfi mappable:1" ; Times: 1
+	Query: "ARIOMMATIDAE" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "thorius" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "type:specimen order:lagomorpha county:&#34;Los Angeles&#34; preparations:SKULL institutioncode:LACM" ; Times: 1
+	Query: "POTAMOTRYGONIDAE" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 8 month &lt;= 8 mappable:1" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Sicalis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "lacm mammalia" ; Times: 1
+	Query: "terpsiphone mutata" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "PINGUIPEDIDAE" ; Times: 1
+	Query: "abudefduf taurus" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "type:specimen specificepithet:albilinea genus:Tachycineta mappable:1" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "ASPREDINIDAE" ; Times: 1
+	Query: "selasphorus sasin institutioncode:LACM" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "Catamenia type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Melierax gabar" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "aves" ; Times: 1
+	Query: "PRISTIGASTERIDAE" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "Anolis cristatellus mappable:1" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "CENTROPHORIDAE" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "ptychadena subpunctata" ; Times: 1
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "cypselurus comatus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Urothraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "POMATOMIDAE" ; Times: 2
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "mammals coahuila" ; Times: 4
+	Query: "lacm myocastor" ; Times: 1
+	Query: "type:specimen specificepithet:bicolor genus:Tachycineta mappable:1" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1985 year &lt;= 1990 mappable:1" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 9 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "Pseudoeurycea robertsi" ; Times: 2
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "ARIIDAE" ; Times: 1
+	Query: "REGALECIDAE" ; Times: 2
+	Query: "farancia (North Carolina)" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "ACHIRIDAE" ; Times: 1
+	Query: "CHAUNACIDAE" ; Times: 1
+	Query: "Saltator type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "Poospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "KUHLIIDAE" ; Times: 2
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Batrachoseps campi" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "GRAMMATIDAE" ; Times: 1
+	Query: "Picidae mappable:1" ; Times: 1
+	Query: "ECHINORHINIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 1 month &lt;= 1 mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Neothraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "batrachoseps major year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "lacm capromys" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "SOMNIOSIDAE" ; Times: 2
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Allobates talamancae" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Seicercus poliogenys" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 3 month &lt;= 4 mappable:1" ; Times: 1
+	Query: "ZENIONIDAE" ; Times: 1
+	Query: "Passeridae Arizona" ; Times: 1
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "CALLORHINCHIDAE" ; Times: 4
+	Query: "class:aves" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "Nemosia type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Geospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "MEGACHASMIDAE" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(12.039320557540586,-86.396486375))&lt;1279526.3944158978" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 8 mappable:1" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "anniella pulchra mappable:1" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "STROMATEIDAE" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;Virginia&#34; (county:Accomack OR county:Northampton )" ; Times: 1
+	Query: "ichthyology" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:CAS OR institutioncode:LACM OR institutioncode:MVZ OR institutioncode:SBNMH OR institutioncode:UCMP" ; Times: 1
+	Query: "Urocyon littoralis santacruzae" ; Times: 1
+	Query: "Thraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Eucometis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;zacatecas&#34;" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "Cnemoscopus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 11 month &lt;= 11 mappable:1" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "Crax rubra" ; Times: 2
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "(fish) institutioncode:LACM" ; Times: 1
+	Query: "DACTYLOSCOPIDAE" ; Times: 1
+	Query: "lacm echimyidae" ; Times: 1
+	Query: "Anolis cupreus (Costa Rica) mappable:1" ; Times: 1
+	Query: "Lissodelphis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ramphocelus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "rana tarahumarae" ; Times: 2
+	Query: "ptychadena christyi" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 6 month &lt;= 6 mappable:1" ; Times: 2
+	Query: "Plethodon jordani year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "hydromantes brunus distance(location,geopoint(37.65193359150245,-119.8553466796875))&lt;100000" ; Times: 1
+	Query: "SCATOPHAGIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "Tiaris type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "SYNAPHOBRANCHIDAE" ; Times: 1
+	Query: "Rhodospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "Heterospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "Pyrrhocoma type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "MORINGUIDAE" ; Times: 1
+	Query: "Sporophila type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "Schistochlamys type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 12 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Lissodelphis borealis stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Anniella geronimensis" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "CAPROIDAE" ; Times: 1
+	Query: "Certhidea type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "Diuca type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Cayuga&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "AULOPIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "OPLEGNATHIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1995 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 4 month &lt;= 5 mappable:1" ; Times: 1
+	Query: "ptychadena anchietae" ; Times: 2
+	Query: "Thlypopsis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Piezorhina type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Diglossa type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "Cypsnagra type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Volatinia type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "Rana catesbeiana tissue:1" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "family:Cricetidae continent:South America institutioncode:LACM" ; Times: 1
+	Query: "CHEILODACTYLIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "lacm paca" ; Times: 1
+	Query: "castor canadensis (san diego) institutioncode:LACM" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 5 month &lt;= 5 mappable:1" ; Times: 2
+	Query: "Tersina type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Lakeside class:Reptilia county:&#34;san diego&#34;" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 10 month &lt;= 10 mappable:1" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "lacm thryonomys" ; Times: 1
+	Query: "Conirostrum type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "PRIACANTHIDAE" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "LABRISOMIDAE" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 7 month &lt;= 7 mappable:1" ; Times: 2
+	Query: "Mitrospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Oryzoborus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "class:Aves country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "LOBOTIDAE" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "type:specimen order:rodentia county:&#34;Los Angeles&#34; preparations:skull institutioncode:LACM" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "LUVARIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "Phrygilus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Lophospingus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "&#34;Sciurus griseus&#34; AND preparations:skeleton type:specimen" ; Times: 2
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "Aneides aeneus Virginia" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "Pinaroloxias type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Lanio type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "PERCOPHIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;seneca&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "NEMATISTIIDAE" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 2 mappable:1" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Chlorochrysa type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Polioptila californica)" ; Times: 1
+	Query: "Paroaria type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ETMOPTERIDAE" ; Times: 1
+	Query: "puma concolor california type:specimen AND (NOT baja) institutioncode:LACM" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 11 month &lt;= 12 mappable:1" ; Times: 2
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "ANABLEPIDAE" ; Times: 1
+	Query: "ARHYNCHOBATIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Gubernatrix type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "BREGMACEROTIDAE" ; Times: 1
+	Query: "CHLOROPHTHALMIDAE" ; Times: 1
+	Query: "Iridosornis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "dipsosaurus dorsalis mappable:1" ; Times: 1
+	Query: "Lithobates catesbeiana type:specimen" ; Times: 1
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "specificepithet:satrapa genus:regulus month &gt;= 2 month &lt;= 3 mappable:1" ; Times: 1
+	Query: "lacm dasyprocta" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.063924198120645,-108.15765380859375))&lt;41580.77121872904" ; Times: 1
+	Query: "ZANCLIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "Loricariidae" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "Anolis intermedius mappable:1 distance(location,geopoint(9.665738395188692,-82.33154296875))&lt;305822.88639677287" ; Times: 1
+	Query: "phoebastria" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1910 year &lt;= 1920 mappable:1" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga month &gt;= 1 month &lt;= 2 mappable:1" ; Times: 1
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "Coereba type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "MOBULIDAE" ; Times: 1
+	Query: "class:Amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1880 year &lt;= 1890 mappable:1" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Dubusia type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "Rhynchopsitta United" ; Times: 1
+	Query: "ptychadena aequiplicata" ; Times: 1
+	Query: "SCHINDLERIIDAE" ; Times: 1
+	Query: "specificepithet:Satrapa genus:Regulus year &gt;= 1990 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "CHLAMYDOSELACHIDAE" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "MURAENESOCIDAE" ; Times: 1
+	Query: "class:Mammalia" ; Times: 12
+	Query: "genus:Aneides country:&#34;Mexico&#34;" ; Times: 2
+	Query: "STERNOPYGIDAE" ; Times: 2
+	Query: "Tangara type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "OPISTOGNATHIDAE" ; Times: 1
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "SPARIDAE" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "Charitospiza type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "POLYPRIONIDAE" ; Times: 1
+	Query: "Stephanophorus type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "ptychadena trinodis" ; Times: 1
+	Query: "CHLOPSIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:thalassina genus:Tachycineta mappable:1" ; Times: 1
+	Query: "Anolis humilis (Costa Rica) mappable:1" ; Times: 1
+	Query: "Pelecanus erythrorhynchos stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "Saltatricula type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "Geomyidae" ; Times: 1
+	Query: "Compsothraupis type:specimen sex:male institutioncode:LACM" ; Times: 1
+	Query: "type:specimen order:Rodentia county:&#34;Los Angeles&#34; preparations:Skeleton institutioncode:LACM" ; Times: 1
+	Query: "SCOPHTHALMIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; (Campylorhynchus)" ; Times: 1
+	Query: "selasphorus platycercus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "Melanodera type:specimen sex:male institutioncode:LACM" ; Times: 1
+
+
+End of report.
